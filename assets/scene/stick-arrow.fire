@@ -20,7 +20,7 @@
         "__id__": 31
       },
       {
-        "__id__": 37
+        "__id__": 38
       }
     ],
     "_tag": -1,
@@ -97,6 +97,9 @@
       },
       {
         "__id__": 36
+      },
+      {
+        "__id__": 37
       }
     ],
     "_prefab": null,
@@ -1283,6 +1286,21 @@
     "mouseJoint": true
   },
   {
+    "__type__": "b90d5Qhx6FPIbKstn/2MkmY",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 2
+    },
+    "_enabled": true,
+    "button": {
+      "__id__": 28
+    },
+    "stone": {
+      "__id__": 38
+    }
+  },
+  {
     "__type__": "cc.Node",
     "_name": "stone",
     "_objFlags": 0,
@@ -1293,9 +1311,6 @@
     "_tag": -1,
     "_active": true,
     "_components": [
-      {
-        "__id__": 38
-      },
       {
         "__id__": 39
       },
@@ -1350,7 +1365,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 37
+      "__id__": 38
     },
     "_enabled": true,
     "_spriteFrame": {
@@ -1376,7 +1391,7 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 37
+      "__id__": 38
     },
     "_enabled": true,
     "_type": 2,
@@ -1395,23 +1410,11 @@
     "bullet": false
   },
   {
-    "__type__": "9e8a1XW7ZRJ86CVOMk8HoD1",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 37
-    },
-    "_enabled": true,
-    "stone": {
-      "__id__": 37
-    }
-  },
-  {
     "__type__": "cc.PhysicsPolygonCollider",
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 37
+      "__id__": 38
     },
     "_enabled": true,
     "tag": 0,
@@ -1471,7 +1474,7 @@
   {
     "__type__": "cc.PrefabInfo",
     "root": {
-      "__id__": 37
+      "__id__": 38
     },
     "asset": {
       "__uuid__": "119ae531-34f0-48fc-82d2-5e41a96a5007"
