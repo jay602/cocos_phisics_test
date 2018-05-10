@@ -1,0 +1,1862 @@
+touch began: rotation=-28.16606917932084, distance=144.05901568454507 velocity(528.9498865302527, 283.2172620791904)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(528.9498865302527, 283.2172620791904), speed=600
+shoot-arrow.js:74 direction(0.8815831442170878, 0.472028770131984)
+shoot-arrow.js:80 pointingDirection(0.8815831442170878, 0.472028770131984)
+shoot-arrow.js:81 flightDirection(528.9498865302527, 283.2172620791904)
+shoot-arrow.js:82 flightSpeed = 600
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8815831442170878 ,  0.472028770131984
+shoot-arrow.js:96 dragForceMagnitude = 0
+shoot-arrow.js:97 dot = 1
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(0, 0)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(528.9498865302527, 277.8839287458571), speed=597.501012815543
+shoot-arrow.js:74 direction(0.8852702760079622, 0.4650769166673258)
+shoot-arrow.js:80 pointingDirection(0.8815831442170878, 0.472028770131984)
+shoot-arrow.js:81 flightDirection(528.9498865302527, 277.8839287458571)
+shoot-arrow.js:82 flightSpeed = 597.501012815543
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8852702760079622 ,  0.4650769166673258
+shoot-arrow.js:96 dragForceMagnitude = 0.5397228276779931
+shoot-arrow.js:97 dot = 0.9999690383962815
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-0.4778005766262947, -0.25101262855145146)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(528.9335776039038, 272.5420275148025), speed=595.0209124717755
+shoot-arrow.js:74 direction(0.8889327526433677, 0.45803772909869006)
+shoot-arrow.js:80 pointingDirection(0.8815832783736421, 0.47202851957480435)
+shoot-arrow.js:81 flightDirection(528.9335776039038, 272.5420275148025)
+shoot-arrow.js:82 flightSpeed = 595.0209124717755
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8889327526433677 ,  0.45803772909869006
+shoot-arrow.js:96 dragForceMagnitude = 2.158848485678574
+shoot-arrow.js:97 dot = 0.999875121504906
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-1.9190711269142209, -0.98883405784836)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(528.8680733094385, 267.1749419789613), speed=592.5233232434812
+shoot-arrow.js:74 direction(0.8925692079332963, 0.4509104224226007)
+shoot-arrow.js:80 pointingDirection(0.8815844798757619, 0.47202627558450844)
+shoot-arrow.js:81 flightDirection(528.8680733094385, 267.1749419789613)
+shoot-arrow.js:82 flightSpeed = 592.5233232434812
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8925692079332963 ,  0.4509104224226007
+shoot-arrow.js:96 dragForceMagnitude = 4.856061935504093
+shoot-arrow.js:97 dot = 0.9997167282473735
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-4.334371355447918, -2.1896489386484626)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(528.7201267671726, 261.76686862852205), speed=589.9719196370934
+shoot-arrow.js:74 direction(0.8961784606501301, 0.44369377578095825)
+shoot-arrow.js:80 pointingDirection(0.8815892396871631, 0.4720173857685855)
+shoot-arrow.js:81 flightDirection(528.7201267671726, 261.76686862852205)
+shoot-arrow.js:82 flightSpeed = 589.9719196370934
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8961784606501301 ,  0.44369377578095825
+shoot-arrow.js:96 dragForceMagnitude = 8.625806082565816
+shoot-arrow.js:97 dot = 0.9994924638744812
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-7.730261616940362, -3.827216469927983)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(528.4562671706477, 256.3028996396818), speed=587.3305735917753
+shoot-arrow.js:74 direction(0.8997595067100181, 0.4363861020758395)
+shoot-arrow.js:80 pointingDirection(0.8816023125943928, 0.471992968621587)
+shoot-arrow.js:81 flightDirection(528.4562671706477, 256.3028996396818)
+shoot-arrow.js:82 flightSpeed = 587.3305735917753
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8997595067100181 ,  0.4363861020758395
+shoot-arrow.js:96 dragForceMagnitude = 13.454111128812576
+shoot-arrow.js:97 dot = 0.9992012336783205
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-12.105464392482169, -5.871187112397693)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(528.0430673193844, 250.76916311957865), speed=584.5636441960428
+shoot-arrow.js:74 direction(0.9033115086135884, 0.42898521933307093)
+shoot-arrow.js:80 pointingDirection(0.881631359490277, 0.4719387099648914)
+shoot-arrow.js:81 flightDirection(528.0430673193844, 250.76916311957865)
+shoot-arrow.js:82 flightSpeed = 584.5636441960428
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9033115086135884 ,  0.42898521933307093
+shoot-arrow.js:96 dragForceMagnitude = 19.313478852395654
+shoot-arrow.js:97 dot = 0.9988424843882666
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-17.446087718734155, -8.285196961579578)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(527.4475741919182, 245.1530283966234), speed=581.6364421638096
+shoot-arrow.js:74 direction(0.906833781304525, 0.421488425801868)
+shoot-arrow.js:80 pointingDirection(0.8816875034247664, 0.4718338121675919)
+shoot-arrow.js:81 flightDirection(527.4475741919182, 245.1530283966234)
+shoot-arrow.js:82 flightSpeed = 581.6364421638096
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.906833781304525 ,  0.421488425801868
+shoot-arrow.js:96 dragForceMagnitude = 26.157148864956124
+shoot-arrow.js:97 dot = 0.9984165033902399
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-23.720186213353525, -11.024935498555475)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(526.6379251691691, 239.44337726493936), speed=578.5158901383154
+shoot-arrow.js:74 direction(0.9103257734947557, 0.4138924813416822)
+shoot-arrow.js:80 pointingDirection(0.88178576383872, 0.47165015285841394)
+shoot-arrow.js:81 flightDirection(526.6379251691691, 239.44337726493936)
+shoot-arrow.js:82 flightSpeed = 578.5158901383154
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9103257734947557 ,  0.4138924813416822
+shoot-arrow.js:96 dragForceMagnitude = 33.91322119916368
+shoot-arrow.js:97 dot = 0.9979247596148995
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-30.872079319827424, -14.036427272411196)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(525.5841581950523, 233.63093388070772), speed=575.1713836862656
+shoot-arrow.js:74 direction(0.9137870434836145, 0.4061935981296048)
+shoot-arrow.js:80 pointingDirection(0.8819453202954862, 0.47135172855192997)
+shoot-arrow.js:81 flightDirection(525.5841581950523, 233.63093388070772)
+shoot-arrow.js:82 flightSpeed = 575.1713836862656
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9137870434836145 ,  0.4061935981296048
+shoot-arrow.js:96 dragForceMagnitude = 42.47928301462977
+shoot-arrow.js:97 dot = 0.9973702613521389
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-38.81701843524226, -17.254812813678274)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(524.259203965796, 227.70863627000082), speed=571.5758357163061
+shoot-arrow.js:74 direction(0.9172172285918766, 0.39838744404691895)
+shoot-arrow.js:80 pointingDirection(0.8821895465575484, 0.4708944721958277)
+shoot-arrow.js:81 flightDirection(524.259203965796, 227.70863627000082)
+shoot-arrow.js:82 flightSpeed = 571.5758357163061
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9172172285918766 ,  0.39838744404691895
+shoot-arrow.js:96 dragForceMagnitude = 51.71835294249571
+shoot-arrow.js:97 dot = 0.9967578961801576
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-47.43696435325244, -20.60394243907732)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(522.640022249205, 221.67202170141366), speed=567.7068592696776
+shoot-arrow.js:74 direction(0.9206160075669185, 0.3904691621774344)
+shoot-arrow.js:80 pointingDirection(0.8825457515038044, 0.47022653742912585)
+shoot-arrow.js:81 flightDirection(522.640022249205, 221.67202170141366)
+shoot-arrow.js:82 flightSpeed = 567.7068592696776
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9206160075669185 ,  0.3904691621774344
+shoot-arrow.js:96 dragForceMagnitude = 61.45706331194716
+shoot-arrow.js:97 dot = 0.9960947083481251
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-56.578356263032134, -23.997088021301547)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(520.7088143554269, 215.51958776361988), speed=563.5480122023633
+shoot-arrow.js:74 direction(0.923983055712468, 0.3824334095711962)
+shoot-arrow.js:80 pointingDirection(0.8830445691179019, 0.469289131507836)
+shoot-arrow.js:81 flightDirection(520.7088143554269, 215.51958776361988)
+shoot-arrow.js:82 flightSpeed = 563.5480122023633
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.923983055712468 ,  0.3824334095711962
+shoot-arrow.js:96 dragForceMagnitude = 71.48698522624032
+shoot-arrow.js:97 dot = 0.9953900619411058
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-66.05276305301359, -27.33901150003682)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(518.4542133765507, 209.25308283775195), speed=559.0899963735723
+shoot-arrow.js:74 direction(0.9273179930590824, 0.3742744177056128)
+shoot-arrow.js:80 pointingDirection(0.8837189591942388, 0.46801794961374216)
+shoot-arrow.js:81 flightDirection(518.4542133765507, 209.25308283775195)
+shoot-arrow.js:82 flightSpeed = 559.0899963735723
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9273179930590824 ,  0.3742744177056128
+shoot-arrow.js:96 dragForceMagnitude = 81.56980431367283
+shoot-arrow.js:97 dot = 0.9946556372357208
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-75.64114723037717, -30.529491011860685)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(515.8723288844204, 202.87767621121378), speed=554.3316797852146
+shoot-arrow.js:74 direction(0.9306203265963513, 0.3659860758631407)
+shoot-arrow.js:80 pointingDirection(0.8846028153911888, 0.46634521440879223)
+shoot-arrow.js:81 flightDirection(515.8723288844204, 202.87767621121378)
+shoot-arrow.js:82 flightSpeed = 554.3316797852146
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9306203265963513 ,  0.3659860758631407
+shoot-arrow.js:96 dragForceMagnitude = 91.4466426394756
+shoot-arrow.js:97 dot = 0.9939052159864288
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-85.10210443928861, -33.46819789048063)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(512.9675103862261, 196.4019617232187), speed=549.2808000290668
+shoot-arrow.js:74 direction(0.93388938837673, 0.3575620369632901)
+shoot-arrow.js:80 pointingDirection(0.885729226452645, 0.4642022591582243)
+shoot-arrow.js:81 flightDirection(512.9675103862261, 196.4019617232187)
+shoot-arrow.js:82 flightSpeed = 549.2808000290668
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.93388938837673 ,  0.3575620369632901
+shoot-arrow.js:96 dragForceMagnitude = 100.85121421006644
+shoot-arrow.js:97 dot = 0.9931542309068304
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-94.18387875568953, -36.06056558317246)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(509.75270065803187, 189.83776108464642), speed=543.9542180751872
+shoot-arrow.js:74 direction(0.9371242720790376, 0.3489958433568143)
+shoot-arrow.js:80 pointingDirection(0.8871284940507066, 0.4615225184574698)
+shoot-arrow.js:81 flightDirection(509.75270065803187, 189.83776108464642)
+shoot-arrow.js:82 flightSpeed = 543.9542180751872
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9371242720790376 ,  0.3489958433568143
+shoot-arrow.js:96 dragForceMagnitude = 109.52578759683524
+shoot-arrow.js:97 dot = 0.9924190847850669
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-102.6392739755675, -38.224044611676824)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(506.2492801063325, 183.19971369523452), speed=538.377626491105
+shoot-arrow.js:74 direction(0.9403237712641028, 0.34028106793598584)
+shoot-arrow.js:80 pointingDirection(0.8888260665416644, 0.4582447200307634)
+shoot-arrow.js:81 flightDirection(506.2492801063325, 183.19971369523452)
+shoot-arrow.js:82 flightSpeed = 538.377626491105
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9403237712641028 ,  0.34028106793598584
+shoot-arrow.js:96 dragForceMagnitude = 117.23826474199731
+shoot-arrow.js:97 dot = 0.9917162815963914
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-110.24192723865421, -39.89396192936868)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(502.48635565658645, 176.50466646137875), speed=532.584673928644
+shoot-arrow.js:74 direction(0.9434863229352144, 0.33141146394503074)
+shoot-arrow.js:80 pointingDirection(0.8908405889272015, 0.45431601899981117)
+shoot-arrow.js:81 flightDirection(502.48635565658645, 176.50466646137875)
+shoot-arrow.js:82 flightSpeed = 532.584673928644
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9434863229352144 ,  0.33141146394503074
+shoot-arrow.js:96 dragForceMagnitude = 123.79825492447777
+shoot-arrow.js:97 dot = 0.9910614485187721
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-116.80196032449183, -41.02816089836129)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(498.4995154108438, 169.770905236048), speed=526.615540151934
+shoot-arrow.js:74 direction(0.9466099600232486, 0.3223811154282825)
+shoot-arrow.js:80 pointingDirection(0.8931822829602101, 0.44969479584045363)
+shoot-arrow.js:81 flightDirection(498.4995154108438, 169.770905236048)
+shoot-arrow.js:82 flightSpeed = 526.615540151934
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9466099600232486 ,  0.3223811154282825
+shoot-arrow.js:96 dragForceMagnitude = 129.0699809104104
+shoot-arrow.js:97 dot = 0.9904683550517777
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-122.17892946980506, -41.60972441420524)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(494.3291412849411, 157.68395997604313), speed=518.8694741042622
+shoot-arrow.js:74 direction(0.9527042270858471, 0.30389908800909327)
+shoot-arrow.js:80 pointingDirection(0.8982877107289277, 0.43940777047451307)
+shoot-arrow.js:81 flightDirection(494.3291412849411, 157.68395997604313)
+shoot-arrow.js:82 flightSpeed = 518.8694741042622
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9527042270858471 ,  0.30389908800909327
+shoot-arrow.js:96 dragForceMagnitude = 140.158708167935
+shoot-arrow.js:97 dot = 0.9893381198620316
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-133.52979373448332, -42.5941035887681)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(489.77132432547074, 150.89674790687985), speed=512.4897839571028
+shoot-arrow.js:74 direction(0.955670414625214, 0.2944385481048154)
+shoot-arrow.js:80 pointingDirection(0.9011050971236598, 0.43360074254751857)
+shoot-arrow.js:81 flightDirection(489.77132432547074, 150.89674790687985)
+shoot-arrow.js:82 flightSpeed = 512.4897839571028
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.955670414625214 ,  0.2944385481048154
+shoot-arrow.js:96 dragForceMagnitude = 143.27205544593983
+shoot-arrow.js:97 dot = 0.9888282548819229
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-136.92086463222796, -42.184815989495135)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(485.0977588126907, 144.12350618777174), speed=506.05476051604546
+shoot-arrow.js:74 direction(0.9585874823468038, 0.2847982420732549)
+shoot-arrow.js:80 pointingDirection(0.9042835080427933, 0.4269324736791747)
+shoot-arrow.js:81 flightDirection(485.0977588126907, 144.12350618777174)
+shoot-arrow.js:82 flightSpeed = 506.05476051604546
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9585874823468038 ,  0.2847982420732549
+shoot-arrow.js:96 dragForceMagnitude = 144.74580586533594
+shoot-arrow.js:97 dot = 0.988424469290292
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-138.7515176247116, -41.2233510579243)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(480.3617070111005, 137.38308247166125), speed=499.621337526765
+shoot-arrow.js:74 direction(0.9614515452622504, 0.27497440992359856)
+shoot-arrow.js:80 pointingDirection(0.9077909695793267, 0.41942288391339094)
+shoot-arrow.js:81 flightDirection(480.3617070111005, 137.38308247166125)
+shoot-arrow.js:82 flightSpeed = 499.621337526765
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9614515452622504 ,  0.27497440992359856
+shoot-arrow.js:96 dragForceMagnitude = 144.70744355251475
+shoot-arrow.js:97 dot = 0.9881275904896988
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-139.12919521451516, -39.79084390240519)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(475.6127638144451, 130.6915549997925), speed=493.24211463689807
+shoot-arrow.js:74 direction(0.9642582206601907, 0.264964306821208)
+shoot-arrow.js:80 pointingDirection(0.9115859206553205, 0.41110960735914653)
+shoot-arrow.js:81 flightDirection(475.6127638144451, 130.6915549997925)
+shoot-arrow.js:82 flightSpeed = 493.24211463689807
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9642582206601907 ,  0.264964306821208
+shoot-arrow.js:96 dragForceMagnitude = 143.3403394765239
+shoot-arrow.js:97 dot = 0.9879335899714364
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-138.21710069246063, -37.980073688913784)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(470.89495344414246, 124.0618351512109), speed=486.9634443366846
+shoot-arrow.js:74 direction(0.9670026752943853, 0.25476621827373774)
+shoot-arrow.js:80 pointingDirection(0.9156196869182915, 0.40204550604085826)
+shoot-arrow.js:81 flightDirection(470.89495344414246, 124.0618351512109)
+shoot-arrow.js:82 flightSpeed = 486.9634443366846
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9670026752943853 ,  0.25476621827373774
+shoot-arrow.js:96 dragForceMagnitude = 140.86395356420877
+shoot-arrow.js:97 dot = 0.9878342999501761
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-136.21581994913396, -35.88737674064087)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(466.24545345654536, 112.17021269179703), speed=479.5487248280644
+shoot-arrow.js:74 direction(0.9722587702088276, 0.23390785312173257)
+shoot-arrow.js:80 pointingDirection(0.9236420747928755, 0.38325620369709895)
+shoot-arrow.js:81 flightDirection(466.24545345654536, 112.17021269179703)
+shoot-arrow.js:82 flightSpeed = 479.5487248280644
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9722587702088276 ,  0.23390785312173257
+shoot-arrow.js:96 dragForceMagnitude = 138.49959468538484
+shoot-arrow.js:97 dot = 0.9876657435536249
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-134.65744560323333, -32.39614285108849)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(461.649145979955, 100.39775768247988), speed=472.4400953895549
+shoot-arrow.js:74 direction(0.9771591160130003, 0.21250896920528298)
+shoot-arrow.js:80 pointingDirection(0.931194567303318, 0.36452253404252855)
+shoot-arrow.js:81 flightDirection(461.649145979955, 100.39775768247988)
+shoot-arrow.js:82 flightSpeed = 472.4400953895549
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9771591160130003 ,  0.21250896920528298
+shoot-arrow.js:96 dragForceMagnitude = 137.43378362804214
+shoot-arrow.js:97 dot = 0.9873895681836939
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-134.29467452029962, -29.20591169277713)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(461.649145979955, 100.39775768247988), speed=472.4400953895549
+shoot-arrow.js:74 direction(0.9771591160130003, 0.21250896920528298)
+shoot-arrow.js:80 pointingDirection(0.931194567303318, 0.36452253404252855)
+shoot-arrow.js:81 flightDirection(461.649145979955, 100.39775768247988)
+shoot-arrow.js:82 flightSpeed = 472.4400953895549
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9771591160130003 ,  0.21250896920528298
+shoot-arrow.js:96 dragForceMagnitude = 137.43378362804214
+shoot-arrow.js:97 dot = 0.9873895681836939
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-134.29467452029962, -29.20591169277713)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(452.4812961993692, 93.07063411091963), speed=461.9539656113691
+shoot-arrow.js:74 direction(0.9794943433390308, 0.20147166393029245)
+shoot-arrow.js:80 pointingDirection(0.9354528080733215, 0.3534516146062108)
+shoot-arrow.js:81 flightDirection(452.4812961993692, 93.07063411091963)
+shoot-arrow.js:82 flightSpeed = 461.9539656113691
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9794943433390308 ,  0.20147166393029245
+shoot-arrow.js:96 dragForceMagnitude = 130.44561754996627
+shoot-arrow.js:97 dot = 0.9874812188819923
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-127.77074450355857, -26.281095620206262)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(448.12005478698103, 81.50690604708326), speed=455.4722376124092
+shoot-arrow.js:74 direction(0.9838581098510671, 0.17895032741038933)
+shoot-arrow.js:80 pointingDirection(0.9435675070564339, 0.33118025247183236)
+shoot-arrow.js:81 flightDirection(448.12005478698103, 81.50690604708326)
+shoot-arrow.js:82 flightSpeed = 455.4722376124092
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9838581098510671 ,  0.17895032741038933
+shoot-arrow.js:96 dragForceMagnitude = 125.59373251141811
+shoot-arrow.js:97 dot = 0.9876013586211162
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-123.56641227782434, -22.47503955361113)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(448.12005478698103, 81.50690604708326), speed=455.4722376124092
+shoot-arrow.js:74 direction(0.9838581098510671, 0.17895032741038933)
+shoot-arrow.js:80 pointingDirection(0.9435675070564339, 0.33118025247183236)
+shoot-arrow.js:81 flightDirection(448.12005478698103, 81.50690604708326)
+shoot-arrow.js:82 flightSpeed = 455.4722376124092
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9838581098510671 ,  0.17895032741038933
+shoot-arrow.js:96 dragForceMagnitude = 125.59373251141811
+shoot-arrow.js:97 dot = 0.9876013586211162
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-123.56641227782434, -22.47503955361113)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(439.6845877088149, 74.6392766802234), speed=445.97484042490277
+shoot-arrow.js:74 direction(0.9858954987010146, 0.16736207945970852)
+shoot-arrow.js:80 pointingDirection(0.9478381214325872, 0.3187520910663085)
+shoot-arrow.js:81 flightDirection(439.6845877088149, 74.6392766802234)
+shoot-arrow.js:82 flightSpeed = 445.97484042490277
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9858954987010146 ,  0.16736207945970852
+shoot-arrow.js:96 dragForceMagnitude = 118.32272751940121
+shoot-arrow.js:97 dot = 0.9878163502106011
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-116.65384445540431, -19.802737724991466)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(435.70280315140377, 68.63000989921036), speed=441.07483597770187
+shoot-arrow.js:74 direction(0.9878205864671689, 0.15559720097629848)
+shoot-arrow.js:80 pointingDirection(0.9520128161205169, 0.30605816104505823)
+shoot-arrow.js:81 flightDirection(435.70280315140377, 68.63000989921036)
+shoot-arrow.js:82 flightSpeed = 441.07483597770187
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9878205864671689 ,  0.15559720097629848
+shoot-arrow.js:96 dragForceMagnitude = 113.61572474623304
+shoot-arrow.js:97 dot = 0.9880396515389943
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-112.23195185071636, -17.67828875740743)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(431.87195252823267, 62.693257642957526), speed=436.3987029476993
+shoot-arrow.js:74 direction(0.989627030536777, 0.14366050407457576)
+shoot-arrow.js:80 pointingDirection(0.9560598820241524, 0.2931714549269143)
+shoot-arrow.js:81 flightDirection(431.87195252823267, 62.693257642957526)
+shoot-arrow.js:82 flightSpeed = 436.3987029476993
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.989627030536777 ,  0.14366050407457576
+shoot-arrow.js:96 dragForceMagnitude = 109.1717285449364
+shoot-arrow.js:97 dot = 0.9882598610579806
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-108.0392935384925, -15.683665553458313)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(428.18421130878545, 56.824588525399484), speed=431.93836675526705
+shoot-arrow.js:74 direction(0.991308585355168, 0.13155716856612523)
+shoot-arrow.js:80 pointingDirection(0.9599541353138216, 0.2801572024665672)
+shoot-arrow.js:81 flightDirection(428.18421130878545, 56.824588525399484)
+shoot-arrow.js:82 flightSpeed = 431.93836675526705
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.991308585355168 ,  0.13155716856612523
+shoot-arrow.js:96 dragForceMagnitude = 105.06024832206417
+shoot-arrow.js:97 dot = 0.9884674641936962
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-104.14712614120809, -13.82142879810477)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(424.62932273649886, 40.352817089090834), speed=426.5423912985476
+shoot-arrow.js:74 direction(0.9955149391922695, 0.09460447053396598)
+shoot-arrow.js:80 pointingDirection(0.9698445362569292, 0.24372438427982937)
+shoot-arrow.js:81 flightDirection(424.62932273649886, 40.352817089090834)
+shoot-arrow.js:82 flightSpeed = 426.5423912985476
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9955149391922695 ,  0.09460447053396598
+shoot-arrow.js:96 dragForceMagnitude = 101.69947784494944
+shoot-arrow.js:97 dot = 0.9885521408687818
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-101.24334950270041, -9.621225255102246)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(421.17354974014, 34.691079267050014), speed=422.5998461682433
+shoot-arrow.js:74 direction(0.9966249480660354, 0.08208966373650543)
+shoot-arrow.js:80 pointingDirection(0.9726359170443949, 0.23233461402728803)
+shoot-arrow.js:81 flightDirection(421.17354974014, 34.691079267050014)
+shoot-arrow.js:82 flightSpeed = 422.5998461682433
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9966249480660354 ,  0.08208966373650543
+shoot-arrow.js:96 dragForceMagnitude = 100.93256427224723
+shoot-arrow.js:97 dot = 0.9884254906513816
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-100.59191162600018, -8.285520261171998)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(417.7400124899725, 29.07493350880201), speed=418.7506057233394
+shoot-arrow.js:74 direction(0.9975866465157198, 0.06943257660148024)
+shoot-arrow.js:80 pointingDirection(0.9753206203175299, 0.22079331417284526)
+shoot-arrow.js:81 flightDirection(417.7400124899725, 29.07493350880201)
+shoot-arrow.js:82 flightSpeed = 418.7506057233394
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9975866465157198 ,  0.06943257660148024
+shoot-arrow.js:96 dragForceMagnitude = 100.20175860592941
+shoot-arrow.js:97 dot = 0.988297075599597
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-99.9599363426668, -6.957266280009225)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(414.32804666280947, 23.504125486444362), speed=414.994185701802
+shoot-arrow.js:74 direction(0.9983948232000743, 0.056637240463251866)
+shoot-arrow.js:80 pointingDirection(0.977891670420852, 0.20911212523791117)
+shoot-arrow.js:81 flightDirection(414.32804666280947, 23.504125486444362)
+shoot-arrow.js:82 flightSpeed = 414.994185701802
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9983948232000743 ,  0.056637240463251866
+shoot-arrow.js:96 dragForceMagnitude = 99.51841051183956
+shoot-arrow.js:97 dot = 0.9881655151195331
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-99.35866586812048, -5.63644814667967)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(410.9366042011776, 17.978401389704363), speed=411.3296920827922
+shoot-arrow.js:74 direction(0.9990443483921033, 0.04370800779946049)
+shoot-arrow.js:80 pointingDirection(0.9803428481233232, 0.197301546201369)
+shoot-arrow.js:81 flightDirection(410.9366042011776, 17.978401389704363)
+shoot-arrow.js:82 flightSpeed = 411.3296920827922
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9990443483921033 ,  0.04370800779946049
+shoot-arrow.js:96 dragForceMagnitude = 98.89114404987235
+shoot-arrow.js:97 dot = 0.9880296394244392
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-98.79663856905435, -4.322334895429392)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(407.5643456046872, 12.497532358607039), speed=407.7559124319736
+shoot-arrow.js:74 direction(0.9995301923983301, 0.03064954296816485)
+shoot-arrow.js:80 pointingDirection(0.9826686319131253, 0.185370871104353)
+shoot-arrow.js:81 flightDirection(407.5643456046872, 12.497532358607039)
+shoot-arrow.js:82 flightSpeed = 407.7559124319736
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9995301923983301 ,  0.03064954296816485
+shoot-arrow.js:96 dragForceMagnitude = 98.3260389284748
+shoot-arrow.js:97 dot = 0.9878884991988889
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-98.27984460794411, -3.013648155027738)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(404.20972690873606, 7.061333168248758), speed=404.27140110790424
+shoot-arrow.js:74 direction(0.9998474435762729, 0.017466813504237996)
+shoot-arrow.js:80 pointingDirection(0.9848641263500231, 0.17332816455730982)
+shoot-arrow.js:81 flightDirection(404.20972690873606, 7.061333168248758)
+shoot-arrow.js:82 flightSpeed = 404.27140110790424
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9998474435762729 ,  0.017466813504237996
+shoot-arrow.js:96 dragForceMagnitude = 97.82684191431011
+shoot-arrow.js:97 dot = 0.9877413697264044
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-97.81191780116315, -1.7087232034258275)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(400.87108011445633, -3.6636579170948425), speed=400.8878212935189
+shoot-arrow.js:74 direction(0.9999582397414605, -0.009138860605127773)
+shoot-arrow.js:80 pointingDirection(0.9886943286278557, 0.14994507174000013)
+shoot-arrow.js:81 flightDirection(400.87108011445633, -3.6636579170948425)
+shoot-arrow.js:82 flightSpeed = 400.8878212935189
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9999582397414605 ,  -0.009138860605127773
+shoot-arrow.js:96 dragForceMagnitude = 99.79533321783565
+shoot-arrow.js:97 dot = 0.9872827133880179
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-99.79116573891943, 0.9120156393200772)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(397.46487499056786, -14.299194449939382), speed=397.72200569390793
+shoot-arrow.js:74 direction(0.9993534913842863, -0.035952736447135966)
+shoot-arrow.js:80 pointingDirection(0.9917832690055629, 0.12792946228543006)
+shoot-arrow.js:81 flightDirection(397.46487499056786, -14.299194449939382)
+shoot-arrow.js:82 flightSpeed = 397.72200569390793
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9993534913842863 ,  -0.035952736447135966
+shoot-arrow.js:96 dragForceMagnitude = 103.94140145178355
+shoot-arrow.js:97 dot = 0.9865426583358582
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-103.87420244021561, 3.7369778123419297)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(393.9193022139418, -19.504972273944777), speed=394.40190237893904
+shoot-arrow.js:74 direction(0.9987763746521346, -0.049454559311949045)
+shoot-arrow.js:80 pointingDirection(0.9931290155917427, 0.11702460591591861)
+shoot-arrow.js:81 flightDirection(393.9193022139418, -19.504972273944777)
+shoot-arrow.js:82 flightSpeed = 394.40190237893904
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9987763746521346 ,  -0.049454559311949045
+shoot-arrow.js:96 dragForceMagnitude = 105.37492993089289
+shoot-arrow.js:97 dot = 0.9861263974403378
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-105.24599049559991, 5.211270722259817)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(390.3269057383587, -24.660427566624975), speed=391.1051393564783
+shoot-arrow.js:74 direction(0.9980101677533563, -0.06305319231345585)
+shoot-arrow.js:80 pointingDirection(0.9943893318232805, 0.10578211926431488)
+shoot-arrow.js:81 flightDirection(390.3269057383587, -24.660427566624975)
+shoot-arrow.js:82 flightSpeed = 391.1051393564783
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9980101677533563 ,  -0.06305319231345585
+shoot-arrow.js:96 dragForceMagnitude = 106.50092110746893
+shoot-arrow.js:97 dot = 0.9857407635558022
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-106.28900214035203, 6.715223060149428)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(386.69890779863465, -29.76454795283854), speed=387.8427176156512
+shoot-arrow.js:74 direction(0.9970508410624586, -0.07674386188252463)
+shoot-arrow.js:80 pointingDirection(0.9955534320930844, 0.09419853421195255)
+shoot-arrow.js:81 flightDirection(386.69890779863465, -29.76454795283854)
+shoot-arrow.js:82 flightSpeed = 387.8427176156512
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9970508410624586 ,  -0.07674386188252463
+shoot-arrow.js:96 dragForceMagnitude = 107.32088176600628
+shoot-arrow.js:97 dot = 0.9853882274919287
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-107.00437542836123, 8.236218927361142)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(383.04649178401326, -34.816751680117946), speed=384.6255595583777
+shoot-arrow.js:74 direction(0.9958945323961894, -0.09052115964444513)
+shoot-arrow.js:80 pointingDirection(0.996609614923889, 0.0822756065991479)
+shoot-arrow.js:81 flightDirection(383.04649178401326, -34.816751680117946)
+shoot-arrow.js:82 flightSpeed = 384.6255595583777
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9958945323961894 ,  -0.09052115964444513
+shoot-arrow.js:96 dragForceMagnitude = 107.84375300252898
+shoot-arrow.js:97 dot = 0.9850703831163677
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-107.40100396830375, 9.762141582198035)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(379.38053751522847, -39.81687058077892), speed=381.4642518352017
+shoot-arrow.js:74 direction(0.9945375895383418, -0.10437903522865469)
+shoot-arrow.js:80 pointingDirection(0.9975455846995648, 0.07002004317624723)
+shoot-arrow.js:81 flightDirection(379.38053751522847, -39.81687058077892)
+shoot-arrow.js:82 flightSpeed = 381.4642518352017
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9945375895383418 ,  -0.10437903522865469
+shoot-arrow.js:96 dragForceMagnitude = 108.08496610361473
+shoot-arrow.js:97 dot = 0.9847879567083155
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-107.49456165402238, 11.28180448461715)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(375.71138981077115, -44.76511832103732), speed=378.3688204012557
+shoot-arrow.js:74 direction(0.9929766131689541, -0.11831080127999036)
+shoot-arrow.js:80 pointingDirection(0.9983487814634228, 0.057443107075600575)
+shoot-arrow.js:81 flightDirection(375.71138981077115, -44.76511832103732)
+shoot-arrow.js:82 flightSpeed = 378.3688204012557
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9929766131689541 ,  -0.11831080127999036
+shoot-arrow.js:96 dragForceMagnitude = 108.06530702545368
+shoot-arrow.js:97 dot = 0.9845408517527753
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-107.30632257119818, 12.785293064749595)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(372.04866733367425, -49.6620469844272), speed=375.3485443896732
+shoot-arrow.js:74 direction(0.9912084991261533, -0.13230915032634274)
+shoot-arrow.js:80 pointingDirection(0.9990067043890684, 0.04456012326837187)
+shoot-arrow.js:81 flightDirection(372.04866733367425, -49.6620469844272)
+shoot-arrow.js:82 flightSpeed = 375.3485443896732
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9912084991261533 ,  -0.13230915032634274
+shoot-arrow.js:96 dragForceMagnitude = 107.80967443075468
+shoot-arrow.js:97 dot = 0.9843282240263778
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-106.86186558378758, 14.26420642089279)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(368.40111565508096, -54.508495405260724), speed=372.4118124969369
+shoot-arrow.js:74 direction(0.989230478982487, -0.1463661827475171)
+shoot-arrow.js:80 pointingDirection(0.9995072153821385, 0.031389909191385554)
+shoot-arrow.js:81 flightDirection(368.40111565508096, -54.508495405260724)
+shoot-arrow.js:82 flightSpeed = 372.4118124969369
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.989230478982487 ,  -0.1463661827475171
+shoot-arrow.js:96 dragForceMagnitude = 107.34581317631607
+shoot-arrow.js:97 dot = 0.9841485802337903
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-106.1897501851717, 15.711796908545505)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(364.7765055154271, -59.305532737449035), speed=369.5660227744416
+shoot-arrow.js:74 direction(0.9870401580127466, -0.16047344475075073)
+shoot-arrow.js:80 pointingDirection(0.9998388111245156, 0.017954157432622908)
+shoot-arrow.js:81 flightDirection(364.7765055154271, -59.305532737449035)
+shoot-arrow.js:82 flightSpeed = 369.5660227744416
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9870401580127466 ,  -0.16047344475075073
+shoot-arrow.js:96 dragForceMagnitude = 106.70309510175552
+shoot-arrow.js:97 dot = 0.9839998926288083
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-105.32023984968589, 17.123013236545667)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(361.18157466189115, -64.05440055230828), speed=366.8175242615309
+shoot-arrow.js:74 direction(0.9846355497573736, -0.17462197500313328)
+shoot-arrow.js:80 pointingDirection(0.9999908544612403, 0.004276797151925568)
+shoot-arrow.js:81 flightDirection(361.18157466189115, -64.05440055230828)
+shoot-arrow.js:82 flightSpeed = 366.8175242615309
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9846355497573736 ,  -0.17462197500313328
+shoot-arrow.js:96 dragForceMagnitude = 105.91140427969586
+shoot-arrow.js:97 dot = 0.9838797219694321
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-104.28413377851378, 18.494458590675794)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(357.6220095622512, -68.75645636574654), speed=364.17159693655094
+shoot-arrow.js:74 direction(0.982015106533855, -0.18880235840502924)
+shoot-arrow.js:80 pointingDirection(0.9999537590394202, -0.009616640938149595)
+shoot-arrow.js:81 flightDirection(357.6220095622512, -68.75645636574654)
+shoot-arrow.js:82 flightSpeed = 364.17159693655094
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.982015106533855 ,  -0.18880235840502924
+shoot-arrow.js:96 dragForceMagnitude = 105.00016700222542
+shoot-arrow.js:97 dot = 0.983785341701082
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-103.11175018476297, 19.824279162942087)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(354.1024618226113, -73.41312097031812), speed=361.63246507944564
+shoot-arrow.js:74 direction(0.9791777454073983, -0.20300478540882735)
+shoot-arrow.js:80 pointingDirection(0.9997191242211805, -0.023699634310174907)
+shoot-arrow.js:81 flightDirection(354.1024618226113, -73.41312097031812)
+shoot-arrow.js:82 flightSpeed = 361.63246507944564
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9791777454073983 ,  -0.20300478540882735
+shoot-arrow.js:96 dragForceMagnitude = 103.99754988946626
+shoot-arrow.js:97 dot = 0.983713857272959
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-101.832086428661, 21.112000298354914)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(350.626593272513, -78.02583136013428), speed=359.20333833266136
+shoot-arrow.js:74 direction(0.9761228692919179, -0.2172191152852646)
+shoot-arrow.js:80 pointingDirection(0.9992798202303651, -0.03794523527887535)
+shoot-arrow.js:81 flightDirection(350.626593272513, -78.02583136013428)
+shoot-arrow.js:82 flightSpeed = 359.20333833266136
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9761228692919179 ,  -0.2172191152852646
+shoot-arrow.js:96 dragForceMagnitude = 102.92983429670782
+shoot-arrow.js:97 dot = 0.9836623157853444
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-100.4721651894441, 22.35832754238976)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(347.19714336737997, -82.59600044668737), speed=356.8864744596777
+shoot-arrow.js:74 direction(0.9728503830049394, -0.2314349418025349)
+shoot-arrow.js:80 pointingDirection(0.9986300260412548, -0.05232658109262169)
+shoot-arrow.js:81 flightDirection(347.19714336737997, -82.59600044668737)
+shoot-arrow.js:82 flightSpeed = 356.8864744596777
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9728503830049394 ,  -0.2314349418025349
+shoot-arrow.js:96 dragForceMagnitude = 101.82096273984942
+shoot-arrow.js:97 dot = 0.9836278025643639
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-99.05656259939417, 23.564928585975125)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(343.8160126973206, -87.12498421761941), speed=354.6832579386918
+shoot-arrow.js:74 direction(0.9693607042392466, -0.24564165989667114)
+shoot-arrow.js:80 pointingDirection(0.9977652245398924, -0.0668173383101881)
+shoot-arrow.js:81 flightDirection(343.8160126973206, -87.12498421761941)
+shoot-arrow.js:82 flightSpeed = 354.6832579386918
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9693607042392466 ,  -0.24564165989667114
+shoot-arrow.js:96 dragForceMagnitude = 100.69224384034734
+shoot-arrow.js:97 dot = 0.9836075226178121
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-97.60710440050904, 24.734209915663282)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(340.48435686711656, -96.9473898524981), speed=354.01750475142643
+shoot-arrow.js:74 direction(0.9617726589711654, -0.2738491417834544)
+shoot-arrow.js:80 pointingDirection(0.995493450612152, -0.09483032103874219)
+shoot-arrow.js:81 flightDirection(340.48435686711656, -96.9473898524981)
+shoot-arrow.js:82 flightSpeed = 354.01750475142643
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9617726589711654 ,  -0.2738491417834544
+shoot-arrow.js:96 dragForceMagnitude = 101.53812095535885
+shoot-arrow.js:97 dot = 0.9834075850151389
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-97.65658857817128, 27.806127281929605)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(340.48435686711656, -96.9473898524981), speed=354.01750475142643
+shoot-arrow.js:74 direction(0.9617726589711654, -0.2738491417834544)
+shoot-arrow.js:80 pointingDirection(0.995493450612152, -0.09483032103874219)
+shoot-arrow.js:81 flightDirection(340.48435686711656, -96.9473898524981)
+shoot-arrow.js:82 flightSpeed = 354.01750475142643
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9617726589711654 ,  -0.2738491417834544
+shoot-arrow.js:96 dragForceMagnitude = 101.53812095535885
+shoot-arrow.js:97 dot = 0.9834075850151389
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-97.65658857817128, 27.806127281929605)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(333.8176670868467, -100.38249156338505), speed=348.58410674007774
+shoot-arrow.js:74 direction(0.9576388040426592, -0.2879720837021276)
+shoot-arrow.js:80 pointingDirection(0.9939680148612501, -0.10967034892251339)
+shoot-arrow.js:81 flightDirection(333.8176670868467, -100.38249156338505)
+shoot-arrow.js:82 flightSpeed = 348.58410674007774
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9576388040426592 ,  -0.2879720837021276
+shoot-arrow.js:96 dragForceMagnitude = 98.22718837998636
+shoot-arrow.js:97 dot = 0.9834443399079392
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-94.06616720468313, 28.286688113986088)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(330.6068752462602, -104.75030594242766), speed=346.8047470193112
+shoot-arrow.js:74 direction(0.9532939733026519, -0.3020440372939729)
+shoot-arrow.js:80 pointingDirection(0.9922159423751002, -0.12452920820711816)
+shoot-arrow.js:81 flightDirection(330.6068752462602, -104.75030594242766)
+shoot-arrow.js:82 flightSpeed = 346.8047470193112
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9532939733026519 ,  -0.3020440372939729
+shoot-arrow.js:96 dragForceMagnitude = 96.97768338879375
+shoot-arrow.js:97 dot = 0.9834867828888941
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-92.44824111938978, 29.291531018167916)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(327.4513086160517, -109.08382168367419), speed=345.1429264340794
+shoot-arrow.js:74 direction(0.9487411838312533, -0.31605405566528)
+shoot-arrow.js:80 pointingDirection(0.9902384708248956, -0.13938353883573373)
+shoot-arrow.js:81 flightDirection(327.4513086160517, -109.08382168367419)
+shoot-arrow.js:82 flightSpeed = 345.1429264340794
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9487411838312533 ,  -0.31605405566528
+shoot-arrow.js:96 dragForceMagnitude = 95.78313171851208
+shoot-arrow.js:97 dot = 0.9835327518276741
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-90.87340177768601, 30.272647243957465)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(324.34949650204, -113.38384865774711), speed=343.5964100766621
+shoot-arrow.js:74 direction(0.9439839503261173, -0.3299913658365909)
+shoot-arrow.js:80 pointingDirection(0.9880377516188651, -0.15421219593773358)
+shoot-arrow.js:81 flightDirection(324.34949650204, -113.38384865774711)
+shoot-arrow.js:82 flightSpeed = 343.5964100766621
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9439839503261173 ,  -0.3299913658365909
+shoot-arrow.js:96 dragForceMagnitude = 94.65159240343382
+shoot-arrow.js:97 dot = 0.983580473010664
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-89.34958410165098, 31.234208255817418)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(321.2996973647036, -117.65105434928188), speed=342.1626310925081
+shoot-arrow.js:74 direction(0.9390262646122688, -0.3438454222006301)
+shoot-arrow.js:80 pointingDirection(0.9856166910952505, -0.16899626692459643)
+shoot-arrow.js:81 flightDirection(321.2996973647036, -117.65105434928188)
+shoot-arrow.js:82 flightSpeed = 342.1626310925081
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9390262646122688 ,  -0.3438454222006301
+shoot-arrow.js:96 dragForceMagnitude = 93.58845553185587
+shoot-arrow.js:97 dot = 0.9836285525296957
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-87.88201780891004, 32.17996200545588)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(318.29999115682614, -121.88597831282898), speed=340.83878312145026
+shoot-arrow.js:74 direction(0.9338725723692279, -0.35760595433588804)
+shoot-arrow.js:80 pointingDirection(0.9829787976922029, -0.18371903354740185)
+shoot-arrow.js:81 flightDirection(318.29999115682614, -121.88597831282898)
+shoot-arrow.js:82 flightSpeed = 340.83878312145026
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9338725723692279 ,  -0.35760595433588804
+shoot-arrow.js:96 dragForceMagnitude = 92.59675014757238
+shoot-arrow.js:97 dot = 0.9836759587066141
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-86.4735652533441, 33.113149204924405)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(315.348360129512, -131.42238281996757), speed=341.6378652059085
+shoot-arrow.js:74 direction(0.9230486203262289, -0.384683304178704)
+shoot-arrow.js:80 pointingDirection(0.9773028579163194, -0.2118469350937002)
+shoot-arrow.js:81 flightDirection(315.348360129512, -131.42238281996757)
+shoot-arrow.js:82 flightSpeed = 341.6378652059085
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9230486203262289 ,  -0.384683304178704
+shoot-arrow.js:96 dragForceMagnitude = 93.50973026225168
+shoot-arrow.js:97 dot = 0.9835920336125152
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-86.31402750564924, 35.97163201014232)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(312.40217465731916, -135.52788444735472), speed=340.5332967470255
+shoot-arrow.js:74 direction(0.9173909795064642, -0.397987174064906)
+shoot-arrow.js:80 pointingDirection(0.9742766309768575, -0.22535537786435073)
+shoot-arrow.js:81 flightDirection(312.40217465731916, -135.52788444735472)
+shoot-arrow.js:82 flightSpeed = 340.5332967470255
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9173909795064642 ,  -0.397987174064906
+shoot-arrow.js:96 dragForceMagnitude = 93.53393644707192
+shoot-arrow.js:97 dot = 0.9834811427986793
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-85.80718957427469, 37.22530704573667)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(312.40217465731916, -135.52788444735472), speed=340.5332967470255
+shoot-arrow.js:74 direction(0.9173909795064642, -0.397987174064906)
+shoot-arrow.js:80 pointingDirection(0.9742766309768575, -0.22535537786435073)
+shoot-arrow.js:81 flightDirection(312.40217465731916, -135.52788444735472)
+shoot-arrow.js:82 flightSpeed = 340.5332967470255
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9173909795064642 ,  -0.397987174064906
+shoot-arrow.js:96 dragForceMagnitude = 93.53393644707192
+shoot-arrow.js:97 dot = 0.9834811427986793
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-85.80718957427469, 37.22530704573667)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(306.5444038490487, -138.31997015303244), speed=336.3062379354633
+shoot-arrow.js:74 direction(0.9115037702865154, -0.41129171734119263)
+shoot-arrow.js:80 pointingDirection(0.9707761528126563, -0.2399867936580225)
+shoot-arrow.js:81 flightDirection(306.5444038490487, -138.31997015303244)
+shoot-arrow.js:82 flightSpeed = 336.3062379354633
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9115037702865154 ,  -0.41129171734119263
+shoot-arrow.js:96 dragForceMagnitude = 90.7316586761597
+shoot-arrow.js:97 dot = 0.9835707038957892
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-82.7022489676688, 37.31717971413264)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(303.7215004176189, -142.37954375212337), speed=335.4380483710703
+shoot-arrow.js:74 direction(0.9054473751338856, -0.4244585384500551)
+shoot-arrow.js:80 pointingDirection(0.9670715317815712, -0.2545047198337301)
+shoot-arrow.js:81 flightDirection(303.7215004176189, -142.37954375212337)
+shoot-arrow.js:82 flightSpeed = 335.4380483710703
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9054473751338856 ,  -0.4244585384500551
+shoot-arrow.js:96 dragForceMagnitude = 89.77825478215568
+shoot-arrow.js:97 dot = 0.9836590814275956
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-81.28948513660409, 38.107146809430475)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(300.94681932495615, -146.41215314102814), speed=334.67223764333914
+shoot-arrow.js:74 direction(0.8992285151709409, -0.43747923093955543)
+shoot-arrow.js:80 pointingDirection(0.9631688747599665, -0.26889722700991153)
+shoot-arrow.js:81 flightDirection(300.94681932495615, -146.41215314102814)
+shoot-arrow.js:82 flightSpeed = 334.67223764333914
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8992285151709409 ,  -0.43747923093955543
+shoot-arrow.js:96 dragForceMagnitude = 88.8941483037949
+shoot-arrow.js:97 dot = 0.9837458691833458
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-79.93615298660691, 38.889343634970984)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(298.21833196968, -150.41806354495446), speed=334.0056397179428
+shoot-arrow.js:74 direction(0.892854181209383, -0.45034587940484405)
+shoot-arrow.js:80 pointingDirection(0.9590743822536587, -0.2831542500206608)
+shoot-arrow.js:81 flightDirection(298.21833196968, -150.41806354495446)
+shoot-arrow.js:82 flightSpeed = 334.0056397179428
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.892854181209383 ,  -0.45034587940484405
+shoot-arrow.js:96 dragForceMagnitude = 88.07707900721714
+shoot-arrow.js:97 dot = 0.9838309220187589
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-78.63998826030299, 39.66514960091513)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(295.5340870370616, -154.39749310524323), speed=333.43512484141974
+shoot-arrow.js:74 direction(0.8863315980211033, -0.463051075313898)
+shoot-arrow.js:80 pointingDirection(0.9547942619458892, -0.29726741724448147)
+shoot-arrow.js:81 flightDirection(295.5340870370616, -154.39749310524323)
+shoot-arrow.js:82 flightSpeed = 333.43512484141974
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8863315980211033 ,  -0.463051075313898
+shoot-arrow.js:96 dragForceMagnitude = 87.32370133657564
+shoot-arrow.js:97 dot = 0.9839143211827223
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-77.39775575076465, 40.43533380429102)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(292.89224364076887, -158.3506337113901), speed=332.957639320263
+shoot-arrow.js:74 direction(0.8796681891387501, -0.4755879277455979)
+shoot-arrow.js:80 pointingDirection(0.9503346606316397, -0.31122987132045377)
+shoot-arrow.js:81 flightDirection(292.89224364076887, -158.3506337113901)
+shoot-arrow.js:82 flightSpeed = 332.957639320263
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8796681891387501 ,  -0.4755879277455979
+shoot-arrow.js:96 dragForceMagnitude = 86.6298063460849
+shoot-arrow.js:97 dot = 0.9839963395474469
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-76.20548487390111, 41.20009008113696)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(290.2910964237397, -162.27767063662063), speed=332.5702377696243
+shoot-arrow.js:74 direction(0.872871542476474, -0.4879500695099254)
+shoot-arrow.js:80 pointingDirection(0.9457016137400596, -0.3250360868725919)
+shoot-arrow.js:81 flightDirection(290.2910964237397, -162.27767063662063)
+shoot-arrow.js:82 flightSpeed = 332.5702377696243
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.872871542476474 ,  -0.4879500695099254
+shoot-arrow.js:96 dragForceMagnitude = 85.99052299763895
+shoot-arrow.js:97 dot = 0.9840774074904918
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-75.05868044730782, 41.95908167389277)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(287.7290934644716, -166.17880064881842), speed=332.27010851258706
+shoot-arrow.js:74 direction(0.8659493770068452, -0.5001316591273309)
+shoot-arrow.js:80 pointingDirection(0.9409010112090572, -0.33868168994761677)
+shoot-arrow.js:81 flightDirection(287.7290934644716, -166.17880064881842)
+shoot-arrow.js:82 flightSpeed = 332.27010851258706
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8659493770068452 ,  -0.5001316591273309
+shoot-arrow.js:96 dragForceMagnitude = 85.40049940075724
+shoot-arrow.js:97 dot = 0.9841580799911436
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-73.95250925215919, 42.711493455603346)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(285.2048478153312, -170.05424833886715), speed=332.05459279381057
+shoot-arrow.js:74 direction(0.8589095106792554, -0.5121273791399188)
+shoot-arrow.js:80 pointingDirection(0.9359385781599068, -0.3521632830265131)
+shoot-arrow.js:81 flightDirection(285.2048478153312, -170.05424833886715)
+shoot-arrow.js:82 flightSpeed = 332.05459279381057
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8589095106792554 ,  -0.5121273791399188
+shoot-arrow.js:96 dragForceMagnitude = 84.85406495556201
+shoot-arrow.js:97 dot = 0.9842390053588412
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-72.88196341012751, 43.4560898950604)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(282.7171434642655, -179.23761380378244), speed=334.74632994353794
+shoot-arrow.js:74 direction(0.8445713012356304, -0.5354431035405666)
+shoot-arrow.js:80 pointingDirection(0.9259267637164069, -0.3777030953456182)
+shoot-arrow.js:81 flightDirection(282.7171434642655, -179.23761380378244)
+shoot-arrow.js:82 flightSpeed = 334.74632994353794
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8445713012356304 ,  -0.5354431035405666
+shoot-arrow.js:96 dragForceMagnitude = 86.17689107157945
+shoot-arrow.js:97 dot = 0.9842496892695982
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-72.78252902876504, 46.142822008843844)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(282.7171434642655, -179.23761380378244), speed=334.74632994353794
+shoot-arrow.js:74 direction(0.8445713012356304, -0.5354431035405666)
+shoot-arrow.js:80 pointingDirection(0.9259267637164069, -0.3777030953456182)
+shoot-arrow.js:81 flightDirection(282.7171434642655, -179.23761380378244)
+shoot-arrow.js:82 flightSpeed = 334.74632994353794
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8445713012356304 ,  -0.5354431035405666
+shoot-arrow.js:96 dragForceMagnitude = 86.17689107157945
+shoot-arrow.js:97 dot = 0.9842496892695982
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-72.78252902876504, 46.142822008843844)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(277.7485228159018, -186.75426382131204), speed=334.6959769430397
+shoot-arrow.js:74 direction(0.8298531860249115, -0.5579818004597493)
+shoot-arrow.js:80 pointingDirection(0.9152733733267512, -0.402833280749083)
+shoot-arrow.js:81 flightDirection(277.7485228159018, -186.75426382131204)
+shoot-arrow.js:82 flightSpeed = 334.6959769430397
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8298531860249115 ,  -0.5579818004597493
+shoot-arrow.js:96 dragForceMagnitude = 85.78736301303078
+shoot-arrow.js:97 dot = 0.9843161642164537
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-71.19091651703926, 47.86778727070502)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(275.3185395321202, -190.4537100158053), speed=334.7729288172568
+shoot-arrow.js:74 direction(0.822403832068539, -0.5689041544926373)
+shoot-arrow.js:80 pointingDirection(0.9099149929644404, -0.41479477525460984)
+shoot-arrow.js:81 flightDirection(275.3185395321202, -190.4537100158053)
+shoot-arrow.js:82 flightSpeed = 334.7729288172568
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.822403832068539 ,  -0.5689041544926373
+shoot-arrow.js:96 dragForceMagnitude = 85.93689759402945
+shoot-arrow.js:97 dot = 0.9842960479747608
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-70.67483389741142, 48.88985806545168)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(272.9061718684219, -194.11826952717124), speed=334.90249507595513
+shoot-arrow.js:74 direction(0.8148824684227193, -0.5796262266817261)
+shoot-arrow.js:80 pointingDirection(0.9043973380300786, -0.42669128765901443)
+shoot-arrow.js:81 flightDirection(272.9061718684219, -194.11826952717124)
+shoot-arrow.js:82 flightSpeed = 334.90249507595513
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8148824684227193 ,  -0.5796262266817261
+shoot-arrow.js:96 dragForceMagnitude = 85.9872838235815
+shoot-arrow.js:97 dot = 0.9842989962726484
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-70.06953009512506, 49.840484865273176)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(270.51446524117495, -197.75038097710325), speed=335.0869873350923
+shoot-arrow.js:74 direction(0.8072962408732876, -0.5901464051164413)
+shoot-arrow.js:80 pointingDirection(0.8987211243107557, -0.4385206274710589)
+shoot-arrow.js:81 flightDirection(270.51446524117495, -197.75038097710325)
+shoot-arrow.js:82 flightSpeed = 335.0869873350923
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8072962408732876 ,  -0.5901464051164413
+shoot-arrow.js:96 dragForceMagnitude = 85.93642582900537
+shoot-arrow.js:97 dot = 0.9843255571209393
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-69.37615352584213, 50.71507277154322)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(268.1464258674929, -212.01930649316793), speed=341.84015567419044
+shoot-arrow.js:74 direction(0.7844205000979013, -0.6202293761393105)
+shoot-arrow.js:80 pointingDirection(0.8821550317658652, -0.47095912766413756)
+shoot-arrow.js:81 flightDirection(268.1464258674929, -212.01930649316793)
+shoot-arrow.js:82 flightSpeed = 341.84015567419044
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.7844205000979013 ,  -0.6202293761393105
+shoot-arrow.js:96 dragForceMagnitude = 90.81813651227954
+shoot-arrow.js:97 dot = 0.9840831771199019
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-71.23960806092178, 56.32807615114587)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(268.1464258674929, -212.01930649316793), speed=341.84015567419044
+shoot-arrow.js:74 direction(0.7844205000979013, -0.6202293761393105)
+shoot-arrow.js:80 pointingDirection(0.8821550317658652, -0.47095912766413756)
+shoot-arrow.js:81 flightDirection(268.1464258674929, -212.01930649316793)
+shoot-arrow.js:82 flightSpeed = 341.84015567419044
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.7844205000979013 ,  -0.6202293761393105
+shoot-arrow.js:96 dragForceMagnitude = 90.81813651227954
+shoot-arrow.js:97 dot = 0.9840831771199019
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-71.23960806092178, 56.32807615114587)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(263.28313529053395, -213.50730982791637), speed=338.974011803807
+shoot-arrow.js:74 direction(0.7767059601103528, -0.6298633594114322)
+shoot-arrow.js:80 pointingDirection(0.8762071053412317, -0.4819347554903462)
+shoot-arrow.js:81 flightDirection(263.28313529053395, -213.50730982791637)
+shoot-arrow.js:82 flightSpeed = 338.974011803807
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.7767059601103528 ,  -0.6298633594114322
+shoot-arrow.js:96 dragForceMagnitude = 89.16050626809609
+shoot-arrow.js:97 dot = 0.984108325119851
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-69.2514966248867, 56.158936004847064)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(260.9193508724045, -216.92375147895092), speed=339.31522455583774
+shoot-arrow.js:74 direction(0.7689585730022779, -0.6392986102020716)
+shoot-arrow.js:80 pointingDirection(0.8700737438345586, -0.49292157620631183)
+shoot-arrow.js:81 flightDirection(260.9193508724045, -216.92375147895092)
+shoot-arrow.js:82 flightSpeed = 339.31522455583774
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.7689585730022779 ,  -0.6392986102020716
+shoot-arrow.js:96 dragForceMagnitude = 88.96670572745646
+shoot-arrow.js:97 dot = 0.9841747430730814
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-68.4117110808985, 56.876291325819594)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(258.5842311341765, -220.31570740169627), speed=339.7128427351004
+shoot-arrow.js:74 direction(0.7611847378281604, -0.6485351146217717)
+shoot-arrow.js:80 pointingDirection(0.8637587599856373, -0.5039055512177595)
+shoot-arrow.js:81 flightDirection(258.5842311341765, -220.31570740169627)
+shoot-arrow.js:82 flightSpeed = 339.7128427351004
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.7611847378281604 ,  -0.6485351146217717
+shoot-arrow.js:96 dragForceMagnitude = 88.57979064249837
+shoot-arrow.js:97 dot = 0.9842804296840011
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-67.42558471708345, 57.44710467750522)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(256.2827711758334, -223.68817956203742), speed=340.1723981709022
+shoot-arrow.js:74 direction(0.7533908469760007, -0.6575729858295462)
+shoot-arrow.js:80 pointingDirection(0.8572679038737905, -0.514870606063152)
+shoot-arrow.js:81 flightDirection(256.2827711758334, -223.68817956203742)
+shoot-arrow.js:82 flightSpeed = 340.1723981709022
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.7533908469760007 ,  -0.6575729858295462
+shoot-arrow.js:96 dragForceMagnitude = 88.01521544698149
+shoot-arrow.js:97 dot = 0.9844227939296306
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-66.30985771237656, 57.876428019902406)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(254.0193946992509, -227.04599748562475), speed=340.6988961790398
+shoot-arrow.js:74 direction(0.7455832629576874, -0.6664124833744997)
+shoot-arrow.js:80 pointingDirection(0.8506087467740098, -0.525799163095139)
+shoot-arrow.js:81 flightDirection(254.0193946992509, -227.04599748562475)
+shoot-arrow.js:82 flightSpeed = 340.6988961790398
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.7455832629576874 ,  -0.6664124833744997
+shoot-arrow.js:96 dragForceMagnitude = 87.29047975396519
+shoot-arrow.js:97 dot = 0.9845987709545806
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-65.08232072010331, 58.17146538779142)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(251.7979181520047, -230.39374480038813), speed=341.2967465840101
+shoot-arrow.js:74 direction(0.7377682930535193, -0.6750540317373835)
+shoot-arrow.js:80 pointingDirection(0.8437905240642968, -0.5366726669947888)
+shoot-arrow.js:81 flightDirection(251.7979181520047, -230.39374480038813)
+shoot-arrow.js:82 flightSpeed = 341.2967465840101
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.7377682930535193 ,  -0.6750540317373835
+shoot-arrow.js:96 dragForceMagnitude = 86.42446515182701
+shoot-arrow.js:97 dot = 0.9848049422117371
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-63.76123013312677, 58.341183641487824)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(249.62153483012733, -233.73569906542534), speed=341.9697174729826
+shoot-arrow.js:74 direction(0.729952162649749, -0.683498237190817)
+shoot-arrow.js:80 pointingDirection(0.8368239444989952, -0.5474720868803656)
+shoot-arrow.js:81 flightDirection(249.62153483012733, -233.73569906542534)
+shoot-arrow.js:82 flightSpeed = 341.9697174729826
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.729952162649749 ,  -0.683498237190817
+shoot-arrow.js:96 dragForceMagnitude = 85.43681117883618
+shoot-arrow.js:97 dot = 0.9850376543380428
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-62.36478508988972, 58.39590983193922)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(247.49281683239244, -237.0757853431618), speed=342.7209103333339
+shoot-arrow.js:74 direction(0.722140988105098, -0.6917459022636799)
+shoot-arrow.js:80 pointingDirection(0.8297209739628786, -0.5581783813137984)
+shoot-arrow.js:81 flightDirection(247.49281683239244, -237.0757853431618)
+shoot-arrow.js:82 flightSpeed = 342.7209103333339
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.722140988105098 ,  -0.6917459022636799
+shoot-arrow.js:96 dragForceMagnitude = 84.34735100152125
+shoot-arrow.js:97 dot = 0.9852931319950712
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-60.91067939628608, 58.34693442209862)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(245.41373230899922, -240.41754331488752), speed=343.55275452162937
+shoot-arrow.js:74 direction(0.7143407499401915, -0.6997980372756736)
+shoot-arrow.js:80 pointingDirection(0.822494602161253, -0.5687729155081157)
+shoot-arrow.js:81 flightDirection(245.41373230899922, -240.41754331488752)
+shoot-arrow.js:82 flightSpeed = 343.55275452162937
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.7143407499401915 ,  -0.6997980372756736
+shoot-arrow.js:96 dragForceMagnitude = 83.1756207313653
+shoot-arrow.js:97 dot = 0.9855675808577709
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-59.415735289984426, 58.20613613699526)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(243.38567521110107, -243.7641072014114), speed=344.4670185339444
+shoot-arrow.js:74 direction(0.7065572670700183, -0.70765586859048)
+shoot-arrow.js:80 pointingDirection(0.8151586006034512, -0.5792378232317215)
+shoot-arrow.js:81 flightDirection(243.38567521110107, -243.7641072014114)
+shoot-arrow.js:82 flightSpeed = 344.4670185339444
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.7065572670700183 ,  -0.70765586859048
+shoot-arrow.js:96 dragForceMagnitude = 81.94045003334854
+shoot-arrow.js:97 dot = 0.9858572779904979
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-57.89562043805014, 57.98564034104409)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(241.40950470014897, -252.45153067777045), speed=349.2997628128604
+shoot-arrow.js:74 direction(0.6911241586771006, -0.7227360495318256)
+shoot-arrow.js:80 pointingDirection(0.8007516487743629, -0.5989964916300756)
+shoot-arrow.js:81 flightDirection(241.40950470014897, -252.45153067777045)
+shoot-arrow.js:82 flightSpeed = 349.2997628128604
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.6911241586771006 ,  -0.7227360495318256
+shoot-arrow.js:96 dragForceMagnitude = 81.40872222186785
+shoot-arrow.js:97 dot = 0.9863351676126269
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-56.2635346545662, 58.83701829606651)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(239.48904271727312, -261.10989378659804), speed=354.3068983450426
+shoot-arrow.js:74 direction(0.675936719933819, -0.7369596669052589)
+shoot-arrow.js:80 pointingDirection(0.7870341222194591, -0.6169094669902915)
+shoot-arrow.js:81 flightDirection(239.48904271727312, -261.10989378659804)
+shoot-arrow.js:82 flightSpeed = 354.3068983450426
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.675936719933819 ,  -0.7369596669052589
+shoot-arrow.js:96 dragForceMagnitude = 81.9972113524259
+shoot-arrow.js:97 dot = 0.9866226583528797
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-55.42492608527886, 60.4286375654439)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(237.59720524022893, -264.3805962910309), speed=355.45679292027677
+shoot-arrow.js:74 direction(0.6684278088716064, -0.7437770259473623)
+shoot-arrow.js:80 pointingDirection(0.7802685369553075, -0.6254446500191875)
+shoot-arrow.js:81 flightDirection(237.59720524022893, -264.3805962910309)
+shoot-arrow.js:82 flightSpeed = 355.45679292027677
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.6684278088716064 ,  -0.7437770259473623
+shoot-arrow.js:96 dragForceMagnitude = 81.77831430884629
+shoot-arrow.js:97 dot = 0.9867445501744503
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-54.66289944667566, 60.82483140362231)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(235.73137827244906, -267.63777537912057), speed=356.65005469242965
+shoot-arrow.js:74 direction(0.6609598825822156, -0.7504212374506094)
+shoot-arrow.js:80 pointingDirection(0.7733785181305984, -0.6339445304552438)
+shoot-arrow.js:81 flightDirection(235.73137827244906, -267.63777537912057)
+shoot-arrow.js:82 flightSpeed = 356.65005469242965
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.6609598825822156 ,  -0.7504212374506094
+shoot-arrow.js:96 dragForceMagnitude = 81.37763085530975
+shoot-arrow.js:97 dot = 0.9868976135544778
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-53.787349334944416, 61.067502447240436)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(233.89543674848295, -270.8866712955881), speed=357.8919725522879
+shoot-arrow.js:74 direction(0.6535364151379811, -0.7568950746890856)
+shoot-arrow.js:80 pointingDirection(0.7663721540931359, -0.6423968566475453)
+shoot-arrow.js:81 flightDirection(233.89543674848295, -270.8866712955881)
+shoot-arrow.js:82 flightSpeed = 357.8919725522879
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.6535364151379811 ,  -0.7568950746890856
+shoot-arrow.js:96 dragForceMagnitude = 80.81013250264833
+shoot-arrow.js:97 dot = 0.987079127039878
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-52.81236430260604, 61.16479127622691)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(232.09277471362066, -274.1322464200262), speed=359.1873391442931
+shoot-arrow.js:74 direction(0.6461607897052967, -0.7632013062406454)
+shoot-arrow.js:80 pointingDirection(0.7592591118484578, -0.6507884457141898)
+shoot-arrow.js:81 flightDirection(232.09277471362066, -274.1322464200262)
+shoot-arrow.js:82 flightSpeed = 359.1873391442931
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.6461607897052967 ,  -0.7632013062406454
+shoot-arrow.js:96 dragForceMagnitude = 80.09257820898132
+shoot-arrow.js:97 dot = 0.9872860591583308
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-51.75268358504861, 61.126760309275596)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(230.32628311391767, -277.37911966813624), speed=360.54038986075165
+shoot-arrow.js:74 direction(0.6388362846195251, -0.7693427074155713)
+shoot-arrow.js:80 pointingDirection(0.7520504064276267, -0.6591055956309592)
+shoot-arrow.js:81 flightDirection(230.32628311391767, -277.37911966813624)
+shoot-arrow.js:82 flightSpeed = 360.54038986075165
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.6388362846195251 ,  -0.7693427074155713
+shoot-arrow.js:96 dragForceMagnitude = 79.24292493543614
+shoot-arrow.js:97 dot = 0.9875151709043037
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-50.62325574813794, 60.964966413357324)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(228.5983426510479, -280.631515481227), speed=361.95476201328813
+shoot-arrow.js:74 direction(0.6315660591934844, -0.7753220704164252)
+shoot-arrow.js:80 pointingDirection(0.7447581530082256, -0.6673344690091891)
+shoot-arrow.js:81 flightDirection(228.5983426510479, -280.631515481227)
+shoot-arrow.js:82 flightSpeed = 361.95476201328813
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.6315660591934844 ,  -0.7753220704164252
+shoot-arrow.js:96 dragForceMagnitude = 78.27977237828674
+shoot-arrow.js:97 dot = 0.9877631139200734
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-49.438847355517524, 60.69203519205976)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(226.91082999464624, -283.8932273466713), speed=363.4334730073278
+shoot-arrow.js:74 direction(0.6243531398388038, -0.7811422128994356)
+shoot-arrow.js:80 pointingDirection(0.7373953103177069, -0.6754614395518466)
+shoot-arrow.js:81 flightDirection(226.91082999464624, -283.8932273466713)
+shoot-arrow.js:82 flightSpeed = 363.4334730073278
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.6243531398388038 ,  -0.7811422128994356
+shoot-arrow.js:96 dragForceMagnitude = 77.22185964315089
+shoot-arrow.js:97 dot = 0.9880265209190371
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-48.21371053239267, 60.321254325860515)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(225.26513534180722, -287.1675951990153), speed=364.97891573753714
+shoot-arrow.js:74 direction(0.6172004070059747, -0.7868059847202863)
+shoot-arrow.js:80 pointingDirection(0.7299754234237708, -0.6834733946521157)
+shoot-arrow.js:81 flightDirection(225.26513534180722, -287.1675951990153)
+shoot-arrow.js:82 flightSpeed = 364.97891573753714
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.6172004070059747 ,  -0.7868059847202863
+shoot-arrow.js:96 dragForceMagnitude = 76.08762609647565
+shoot-arrow.js:97 dot = 0.9883020857508846
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-46.96131379486319, 59.866199575866474)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(223.6621891642759, -290.4574955868257), speed=366.59286900364987
+shoot-arrow.js:74 direction(0.6101105833622996, -0.7923162727530684)
+shoot-arrow.js:80 pointingDirection(0.7225123732580369, -0.6913579901100726)
+shoot-arrow.js:81 flightDirection(223.6621891642759, -290.4574955868257)
+shoot-arrow.js:82 flightSpeed = 366.59286900364987
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.6101105833622996 ,  -0.7923162727530684
+shoot-arrow.js:96 dragForceMagnitude = 74.89484332416082
+shoot-arrow.js:97 dot = 0.9885866313970058
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-45.69413655133179, 59.34040311102412)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(222.10249596999043, -293.76534316063606), speed=368.2765205092308
+shoot-arrow.js:74 direction(0.6030862235335567, -0.7976760037659606)
+shoot-arrow.js:80 pointingDirection(0.7150201392099677, -0.6991038553206229)
+shoot-arrow.js:81 flightDirection(222.10249596999043, -293.76534316063606)
+shoot-arrow.js:82 flightSpeed = 368.2765205092308
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.6030862235335567 ,  -0.7976760037659606
+shoot-arrow.js:96 dragForceMagnitude = 73.66032040749033
+shoot-arrow.js:97 dot = 0.9888771650361081
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-44.42352445882512, 58.75707001876712)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(220.58617300179586, -297.0931018373288), speed=370.0304999306187
+shoot-arrow.js:74 direction(0.5961297056409028, -0.802888145417835)
+shoot-arrow.js:80 pointingDirection(0.7075125799571487, -0.7067007493998992)
+shoot-arrow.js:81 flightDirection(220.58617300179586, -297.0931018373288)
+shoot-arrow.js:82 flightSpeed = 370.0304999306187
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.5961297056409028 ,  -0.802888145417835
+shoot-arrow.js:96 dragForceMagnitude = 72.39968081787441
+shoot-arrow.js:97 dot = 0.9891709200781701
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-43.15960041445479, 58.128845460706394)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(219.1129919743158, -300.44230391227), speed=371.8549196017842
+shoot-arrow.js:74 direction(0.5892432247742259, -0.8079557055047456)
+shoot-arrow.js:80 pointingDirection(0.7000032364528183, -0.7141396704816081)
+shoot-arrow.js:81 flightDirection(219.1129919743158, -300.44230391227)
+shoot-arrow.js:82 flightSpeed = 371.8549196017842
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.5892432247742259 ,  -0.8079557055047456
+shoot-arrow.js:96 dragForceMagnitude = 71.12720623524991
+shoot-arrow.js:97 dot = 0.9894653856927478
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-41.91122437124008, 57.467632094382886)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(217.68242218244416, -303.8140754034484), speed=373.7494205219161
+shoot-arrow.js:74 direction(0.5824287884606355, -0.8128817296337004)
+shoot-arrow.js:80 pointingDirection(0.6925051597502946, -0.721412921785588)
+shoot-arrow.js:81 flightDirection(217.68242218244416, -303.8140754034484)
+shoot-arrow.js:82 flightSpeed = 373.7494205219161
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.5824287884606355 ,  -0.8128817296337004
+shoot-arrow.js:96 dragForceMagnitude = 69.85574050935718
+shoot-arrow.js:97 dot = 0.9897583248372731
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-40.68599431188544, 56.78445517008922)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(186.79179535821294, -165.03310687400338), speed=249.25308659599528
+shoot-arrow.js:74 direction(0.7494061474190551, -0.662110584578233)
+shoot-arrow.js:80 pointingDirection(0.7774240819745117, -0.6289767855541949)
+shoot-arrow.js:81 flightDirection(186.79179535821294, -165.03310687400338)
+shoot-arrow.js:82 flightSpeed = 249.25308659599528
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.7494061474190551 ,  -0.662110584578233
+shoot-arrow.js:96 dragForceMagnitude = 2.855864676055419
+shoot-arrow.js:97 dot = 0.9990585733527404
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-2.1402025444328596, 1.8908982301393797)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(186.79179535821294, -165.03310687400338), speed=249.25308659599528
+shoot-arrow.js:74 direction(0.7494061474190551, -0.662110584578233)
+shoot-arrow.js:80 pointingDirection(0.7774240819745117, -0.6289767855541949)
+shoot-arrow.js:81 flightDirection(186.79179535821294, -165.03310687400338)
+shoot-arrow.js:82 flightSpeed = 249.25308659599528
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.7494061474190551 ,  -0.662110584578233
+shoot-arrow.js:96 dragForceMagnitude = 2.855864676055419
+shoot-arrow.js:97 dot = 0.9990585733527404
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-2.1402025444328596, 1.8908982301393797)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(186.33450423092455, -168.68142172880928), speed=251.34432458966893
+shoot-arrow.js:74 direction(0.7413515484589681, -0.671116891157934)
+shoot-arrow.js:80 pointingDirection(0.8310351427772517, -0.5562199128664785)
+shoot-arrow.js:81 flightDirection(186.33450423092455, -168.68142172880928)
+shoot-arrow.js:82 flightSpeed = 251.34432458966893
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.7413515484589681 ,  -0.671116891157934
+shoot-arrow.js:96 dragForceMagnitude = 32.766041000507705
+shoot-arrow.js:97 dot = 0.9893777686448231
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-24.291155232596424, 21.989843571814134)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-42.49763267398552, -99.24314351633969), speed=107.95948461296857
+shoot-arrow.js:74 direction(-0.3936442715185074, -0.9192628500601249)
+shoot-arrow.js:80 pointingDirection(0.9310594952606362, -0.36486739548089153)
+shoot-arrow.js:81 flightDirection(-42.49763267398552, -99.24314351633969)
+shoot-arrow.js:82 flightSpeed = 107.95948461296857
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.3936442715185074 ,  -0.9192628500601249
+shoot-arrow.js:96 dragForceMagnitude = 551.4064808246129
+shoot-arrow.js:97 dot = -0.03109719488848328
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(217.05800245478858, 506.88749310445723)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-42.49763267398552, -99.24314351633969), speed=107.95948461296857
+shoot-arrow.js:74 direction(-0.3936442715185074, -0.9192628500601249)
+shoot-arrow.js:80 pointingDirection(0.9310594952606362, -0.36486739548089153)
+shoot-arrow.js:81 flightDirection(-42.49763267398552, -99.24314351633969)
+shoot-arrow.js:82 flightSpeed = 107.95948461296857
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.3936442715185074 ,  -0.9192628500601249
+shoot-arrow.js:96 dragForceMagnitude = 551.4064808246129
+shoot-arrow.js:97 dot = -0.03109719488848328
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(217.05800245478858, 506.88749310445723)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-16.34696851906737, -36.43971852092683), speed=39.93840840153445
+shoot-arrow.js:74 direction(-0.4093044558690855, -0.9123978640953254)
+shoot-arrow.js:80 pointingDirection(0.937321655159839, -0.3484653709745342)
+shoot-arrow.js:81 flightDirection(-16.34696851906737, -36.43971852092683)
+shoot-arrow.js:82 flightSpeed = 39.93840840153445
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.4093044558690855 ,  -0.9123978640953254
+shoot-arrow.js:96 dragForceMagnitude = 72.76672869194005
+shoot-arrow.js:97 dot = -0.06571086985115826
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(29.78374629262789, 66.39220783573013)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-14.206282751114186, -35.466844595154996), speed=38.20622377494902
+shoot-arrow.js:74 direction(-0.3718316375571494, -0.9283001849141089)
+shoot-arrow.js:80 pointingDirection(0.9430835797272815, -0.33255580230808834)
+shoot-arrow.js:81 flightDirection(-14.206282751114186, -35.466844595154996)
+shoot-arrow.js:82 flightSpeed = 38.20622377494902
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.3718316375571494 ,  -0.9283001849141089
+shoot-arrow.js:96 dragForceMagnitude = 68.28470164889625
+shoot-arrow.js:97 dot = -0.04195669902639526
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(25.390412434210468, 63.38870116747514)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-13.0301114912849, -34.49752439952164), speed=36.876320249869096
+shoot-arrow.js:74 direction(-0.3533463047016237, -0.9354925916081364)
+shoot-arrow.js:80 pointingDirection(0.9483955249645053, -0.31708977944314193)
+shoot-arrow.js:81 flightDirection(-13.0301114912849, -34.49752439952164)
+shoot-arrow.js:82 flightSpeed = 36.876320249869096
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.3533463047016237 ,  -0.9354925916081364
+shoot-arrow.js:96 dragForceMagnitude = 63.844710099642086
+shoot-arrow.js:97 dot = -0.03847691459804725
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(22.559292388454963, 59.72625331158433)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-12.13666433023974, -33.77150334169977), speed=35.88611234200986
+shoot-arrow.js:74 direction(-0.3381994743418341, -0.941074447403024)
+shoot-arrow.js:80 pointingDirection(0.9533179998680483, -0.30196819555639276)
+shoot-arrow.js:81 flightDirection(-12.13666433023974, -33.77150334169977)
+shoot-arrow.js:82 flightSpeed = 35.88611234200986
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.3381994743418341 ,  -0.941074447403024
+shoot-arrow.js:96 dragForceMagnitude = 60.47709133089453
+shoot-arrow.js:97 dot = -0.03823709366946204
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(20.453320497831623, 56.91344530476378)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-11.367914348617115, -33.26637347055443), speed=35.155100348596676
+shoot-arrow.js:74 direction(-0.32336458254686506, -0.9462744563572937)
+shoot-arrow.js:80 pointingDirection(0.9579037854285932, -0.28708942485151157)
+shoot-arrow.js:81 flightDirection(-11.367914348617115, -33.26637347055443)
+shoot-arrow.js:82 flightSpeed = 35.155100348596676
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.32336458254686506 ,  -0.9462744563572937
+shoot-arrow.js:96 dragForceMagnitude = 58.047381064427505
+shoot-arrow.js:97 dot = -0.038086768267886595
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(18.7704671458374, 54.9287539597058)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-10.670305718352557, -32.92642323882949), speed=34.612205526745015
+shoot-arrow.js:74 direction(-0.30828158899344227, -0.9512951497236167)
+shoot-arrow.js:80 pointingDirection(0.9621904197974572, -0.27237767171703514)
+shoot-arrow.js:81 flightDirection(-10.670305718352557, -32.92642323882949)
+shoot-arrow.js:82 flightSpeed = 34.612205526745015
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.30828158899344227 ,  -0.9512951497236167
+shoot-arrow.js:96 dragForceMagnitude = 56.30189356732815
+shoot-arrow.js:97 dot = -0.037514033532000335
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(17.35683721227559, 53.55971827085457)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-10.046712946729905, -32.70110105206159), speed=34.20962512292606
+shoot-arrow.js:74 direction(-0.29368088398013337, -0.9559035193912863)
+shoot-arrow.js:80 pointingDirection(0.966204461039116, -0.2577769180281885)
+shoot-arrow.js:81 flightDirection(-10.046712946729905, -32.70110105206159)
+shoot-arrow.js:82 flightSpeed = 34.20962512292606
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.29368088398013337 ,  -0.9559035193912863
+shoot-arrow.js:96 dragForceMagnitude = 55.00940342577
+shoot-arrow.js:97 dot = -0.0373459170625314
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(16.15521022529991, 52.58368233430863)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-9.468243788030698, -32.565545318900554), speed=33.91404402820383
+shoot-arrow.js:74 direction(-0.279183567142764, -0.9602377496419527)
+shoot-arrow.js:80 pointingDirection(0.9699650763846935, -0.2432442200629557)
+shoot-arrow.js:81 flightDirection(-9.468243788030698, -32.565545318900554)
+shoot-arrow.js:82 flightSpeed = 33.91404402820383
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.279183567142764 ,  -0.9602377496419527
+shoot-arrow.js:96 dragForceMagnitude = 54.06964872185366
+shoot-arrow.js:97 dot = -0.03722602754231777
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(15.095357404323295, 51.91971781260364)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-11.440366581803032, -20.839331490960042), speed=23.77308824103748
+shoot-arrow.js:74 direction(-0.4812318225469121, -0.8765933680836155)
+shoot-arrow.js:80 pointingDirection(0.9744341507056223, -0.22467328710510412)
+shoot-arrow.js:81 flightDirection(-11.440366581803032, -20.839331490960042)
+shoot-arrow.js:82 flightSpeed = 23.77308824103748
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.4812318225469121 ,  -0.8765933680836155
+shoot-arrow.js:96 dragForceMagnitude = 20.09016959931603
+shoot-arrow.js:97 dot = -0.2719816088341387
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(9.66802893155542, 17.610909434435502)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-11.081456201522409, -21.16850202435703), speed=23.89360059726175
+shoot-arrow.js:74 direction(-0.46378343675805667, -0.8859486010987804)
+shoot-arrow.js:80 pointingDirection(0.9785701890397496, -0.20591353797822207)
+shoot-arrow.js:81 flightDirection(-11.081456201522409, -21.16850202435703)
+shoot-arrow.js:82 flightSpeed = 23.89360059726175
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.46378343675805667 ,  -0.8859486010987804
+shoot-arrow.js:96 dragForceMagnitude = 20.31014274249469
+shoot-arrow.js:97 dot = -0.2714158344627299
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(9.41950780216089, 17.99374255082972)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-10.733736166884926, -21.49194635827108), speed=24.023256448015015
+shoot-arrow.js:74 direction(-0.44680604355667314, -0.8946308509330719)
+shoot-arrow.js:80 pointingDirection(0.9823652709461081, -0.1869718546706414)
+shoot-arrow.js:81 flightDirection(-10.733736166884926, -21.49194635827108)
+shoot-arrow.js:82 flightSpeed = 24.023256448015015
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.44680604355667314 ,  -0.8946308509330719
+shoot-arrow.js:96 dragForceMagnitude = 20.5243956922162
+shoot-arrow.js:97 dot = -0.2716559505943792
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(9.170424035630745, 18.361757583014455)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-10.376589115296028, -21.81374240861318), speed=24.156012906458905
+shoot-arrow.js:74 direction(-0.42956547322101757, -0.9030357159140512)
+shoot-arrow.js:80 pointingDirection(0.985812294179504, -0.1678514838913942)
+shoot-arrow.js:81 flightDirection(-10.376589115296028, -21.81374240861318)
+shoot-arrow.js:82 flightSpeed = 24.156012906458905
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.42956547322101757 ,  -0.9030357159140512
+shoot-arrow.js:96 dragForceMagnitude = 20.745052745060956
+shoot-arrow.js:97 dot = -0.2718950397332146
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(8.91135839942708, 18.733523557310875)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-10.009259127049999, -22.132534787830206), speed=24.29062297280471
+shoot-arrow.js:74 direction(-0.4120626769538255, -0.9111555027884359)
+shoot-arrow.js:80 pointingDirection(0.9889038634676751, -0.14855688748323267)
+shoot-arrow.js:81 flightDirection(-10.009259127049999, -22.132534787830206)
+shoot-arrow.js:82 flightSpeed = 24.29062297280471
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.4120626769538255 ,  -0.9111555027884359
+shoot-arrow.js:96 dragForceMagnitude = 20.97007634752844
+shoot-arrow.js:97 dot = -0.2721319477230006
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(8.640985795688668, 19.107000457944164)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-9.631159416163309, -22.447040929011475), speed=24.425987762386754
+shoot-arrow.js:74 direction(-0.39429969055311653, -0.9189819116988738)
+shoot-arrow.js:80 pointingDirection(0.9916324063872802, -0.12909365051222266)
+shoot-arrow.js:81 flightDirection(-9.631159416163309, -22.447040929011475)
+shoot-arrow.js:82 flightSpeed = 24.425987762386754
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.39429969055311653 ,  -0.9189819116988738
+shoot-arrow.js:96 dragForceMagnitude = 21.197640777013525
+shoot-arrow.js:97 dot = -0.2723656212450382
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(8.358223198832558, 19.48024844476589)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-9.24185428192019, -22.756045018137204), speed=24.561137095739962
+shoot-arrow.js:74 direction(-0.37627957719934535, -0.9265061682377952)
+shoot-arrow.js:80 pointingDirection(0.9939902765528742, -0.10946839780658456)
+shoot-arrow.js:81 flightDirection(-9.24185428192019, -22.756045018137204)
+shoot-arrow.js:82 flightSpeed = 24.561137095739962
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.37627957719934535 ,  -0.9265061682377952
+shoot-arrow.js:96 dragForceMagnitude = 21.4261041356377
+shoot-arrow.js:97 dot = -0.2725950952066666
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(8.0622054051869, 19.85141764297366)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-8.841043626878221, -23.058392899881852), speed=24.69521280608219
+shoot-arrow.js:74 direction(-0.3580063754178607, -0.9337191414767965)
+shoot-arrow.js:80 pointingDirection(0.9959698458916547, -0.0896887176547503)
+shoot-arrow.js:81 flightDirection(-8.841043626878221, -23.058392899881852)
+shoot-arrow.js:82 flightSpeed = 24.69521280608219
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.3580063754178607 ,  -0.9337191414767965
+shoot-arrow.js:96 dragForceMagnitude = 21.653984854138283
+shoot-arrow.js:97 dot = -0.2728194821044083
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(7.7522646309833, 20.21874014755755)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-8.428549619393232, -23.352987846306714), speed=24.82745436077414
+shoot-arrow.js:74 direction(-0.3394850513836741, -0.9406114500084636)
+shoot-arrow.js:80 pointingDirection(0.9975635874758962, -0.06976309154717804)
+shoot-arrow.js:81 flightDirection(-8.428549619393232, -23.352987846306714)
+shoot-arrow.js:82 flightSpeed = 24.82745436077414
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.3394850513836741 ,  -0.9406114500084636
+shoot-arrow.js:96 dragForceMagnitude = 21.87994188156661
+shoot-arrow.js:97 dot = -0.27303796305547257
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(7.427913193935442, 20.58052385932128)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-8.00430515090226, -23.63878709131387), speed=24.95718646196377
+shoot-arrow.js:74 direction(-0.3207214548443309, -0.9471735576981316)
+shoot-arrow.js:80 pointingDirection(0.9987641501361492, -0.04970082899525718)
+shoot-arrow.js:81 flightDirection(-8.00430515090226, -23.63878709131387)
+shoot-arrow.js:82 flightSpeed = 24.95718646196377
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.3207214548443309 ,  -0.9471735576981316
+shoot-arrow.js:96 dragForceMagnitude = 22.102757913202606
+shoot-arrow.js:97 dot = -0.2732497802580433
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(7.088828673994387, 20.93514784758864)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-7.568343795588469, -23.91479904473518), speed=25.0838083463873
+shoot-arrow.js:74 direction(-0.3017222780159896, -0.953395860568338)
+shoot-arrow.js:80 pointingDirection(0.9995644258711434, -0.029512006588699735)
+shoot-arrow.js:81 flightDirection(-7.568343795588469, -23.91479904473518)
+shoot-arrow.js:82 flightSpeed = 25.0838083463873
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.3017222780159896 ,  -0.953395860568338
+shoot-arrow.js:96 dragForceMagnitude = 22.321325143615503
+shoot-arrow.js:97 dot = -0.27345423067885427
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(6.734841070667256, 21.281058994322983)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-7.120791026436789, -24.180081108833647), speed=25.20678454844958
+shoot-arrow.js:74 direction(-0.2824950168773024, -0.9592687660085117)
+shoot-arrow.js:80 pointingDirection(0.9999576108969335, -0.009207410564158192)
+shoot-arrow.js:81 flightDirection(-7.120791026436789, -24.180081108833647)
+shoot-arrow.js:82 flightSpeed = 25.20678454844958
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.2824950168773024 ,  -0.9592687660085117
+shoot-arrow.js:96 dragForceMagnitude = 22.53463313459651
+shoot-arrow.js:97 dot = -0.2736506607969024
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(6.365921567681659, 21.616769719478917)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-6.6618564795799875, -24.433738027231044), speed=25.32563692659828
+shoot-arrow.js:74 direction(-0.26304793434763984, -0.9647827653080457)
+shoot-arrow.js:80 pointingDirection(0.9999372610320213, 0.011201517744452364)
+shoot-arrow.js:81 flightDirection(-6.6618564795799875, -24.433738027231044)
+shoot-arrow.js:82 flightSpeed = 25.32563692659828
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.26304793434763984 ,  -0.9647827653080457
+shoot-arrow.js:96 dragForceMagnitude = 22.741758466662386
+shoot-arrow.js:97 dot = -0.2738384622568498
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(5.98217258808849, 21.9408566214342)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-6.191827090116281, -24.674920702217342), speed=25.439937782443803
+shoot-arrow.js:74 direction(-0.2433900248918566, -0.9699285003458459)
+shoot-arrow.js:80 pointingDirection(0.9994973419922204, 0.03170273411689441)
+shoot-arrow.js:81 flightDirection(-6.191827090116281, -24.674920702217342)
+shoot-arrow.js:82 flightSpeed = 25.439937782443803
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.2433900248918566 ,  -0.9699285003458459
+shoot-arrow.js:96 dragForceMagnitude = 22.94185590389611
+shoot-arrow.js:97 dot = -0.2740170683056935
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(5.583818879514661, 22.251959892016444)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-5.711060948683081, -24.90282542132517), speed=25.549303926419835
+shoot-arrow.js:74 direction(-0.2235309801445287, -0.974696825128525)
+shoot-arrow.js:80 pointingDirection(0.9986322750651255, 0.05228364178451493)
+shoot-arrow.js:81 flightDirection(-5.711060948683081, -24.90282542132517)
+shoot-arrow.js:82 flightSpeed = 25.549303926419835
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.2235309801445287 ,  -0.974696825128525
+shoot-arrow.js:96 dragForceMagnitude = 23.13415084942792
+shoot-arrow.js:97 dot = -0.2741859509027919
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(5.171199414184005, 22.548783384981764)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-0.19664306244380386, -8.52651282912121e-17), speed=0.19664306244380386
+shoot-arrow.js:74 direction(-1, -4.336035415212217e-16)
+shoot-arrow.js:80 pointingDirection(0.9980444981272623, 0.06250743762066358)
+shoot-arrow.js:81 flightDirection(-0.19664306244380386, -8.52651282912121e-17)
+shoot-arrow.js:82 flightSpeed = 0.19664306244380386
+shoot-arrow.js:86 flightDirection normalizeSelf = -1 ,  -4.336035415212217e-16
+shoot-arrow.js:96 dragForceMagnitude = 0.00000369220275620995
+shoot-arrow.js:97 dot = -0.9980444981272623
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(0.00000369220275620995, 1.6009521911070502e-21)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(3.125694428062279e-16, 1.0658141036401512e-17), speed=3.127511031899769e-16
+shoot-arrow.js:74 direction(0.9994191534997122, 0.03407866807723889)
+shoot-arrow.js:80 pointingDirection(0.9980473259770652, 0.06246226949150679)
+shoot-arrow.js:81 flightDirection(3.125694428062279e-16, 1.0658141036401512e-17)
+shoot-arrow.js:82 flightSpeed = 3.127511031899769e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9994191534997122 ,  0.03407866807723889
+shoot-arrow.js:96 dragForceMagnitude = 1.928350877570451e-36
+shoot-arrow.js:97 dot = 0.999596244630002
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-1.9272308017118874e-36, -6.571562949317572e-38)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(3.125694428062279e-16, 1.0658141036401512e-17), speed=3.127511031899769e-16
+shoot-arrow.js:74 direction(0.9994191534997122, 0.03407866807723889)
+shoot-arrow.js:80 pointingDirection(0.9980473259770652, 0.06246226949150679)
+shoot-arrow.js:81 flightDirection(3.125694428062279e-16, 1.0658141036401512e-17)
+shoot-arrow.js:82 flightSpeed = 3.127511031899769e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.9994191534997122 ,  0.03407866807723889
+shoot-arrow.js:96 dragForceMagnitude = 1.928350877570451e-36
+shoot-arrow.js:97 dot = 0.999596244630002
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-1.9272308017118874e-36, -6.571562949317572e-38)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(4.5520518352362535e-18, -2.380318164796334e-16), speed=2.380753385642968e-16
+shoot-arrow.js:74 direction(0.01912021573795593, -0.9998171919656783)
+shoot-arrow.js:80 pointingDirection(0.9980482953619768, 0.06244677834005855)
+shoot-arrow.js:81 flightDirection(4.5520518352362535e-18, -2.380318164796334e-16)
+shoot-arrow.js:82 flightSpeed = 2.380753385642968e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.01912021573795593 ,  -0.9998171919656783
+shoot-arrow.js:96 dragForceMagnitude = 2.647590573975588e-33
+shoot-arrow.js:97 dot = -0.043352463843040326
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-5.062250296019181e-35, 2.6471065731470708e-33)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(2.1538314076923344e-17, -2.1671553440683055e-16), speed=2.1778319913738605e-16
+shoot-arrow.js:74 direction(0.0988979598161571, -0.9950975799107351)
+shoot-arrow.js:80 pointingDirection(0.9980490605691351, 0.06243454730409137)
+shoot-arrow.js:81 flightDirection(2.1538314076923344e-17, -2.1671553440683055e-16)
+shoot-arrow.js:82 flightSpeed = 2.1778319913738605e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.0988979598161571 ,  -0.9950975799107351
+shoot-arrow.js:96 dragForceMagnitude = 2.2311871874610235e-33
+shoot-arrow.js:97 dot = 0.03657654896159603
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-2.2065986080784484e-34, 2.220248970570304e-33)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-1.521014104486952e-17, -4.440892098500626e-16), speed=4.443496086370031e-16
+shoot-arrow.js:74 direction(-0.03423012139365909, -0.9994139776836101)
+shoot-arrow.js:80 pointingDirection(0.9980496692508216, 0.062424816446069765)
+shoot-arrow.js:81 flightDirection(-1.521014104486952e-17, -4.440892098500626e-16)
+shoot-arrow.js:82 flightSpeed = 4.443496086370031e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.03423012139365909 ,  -0.9994139776836101
+shoot-arrow.js:96 dragForceMagnitude = 8.710097309260063e-33
+shoot-arrow.js:97 dot = -0.09655159544589276
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(2.981476882465553e-34, 8.704992997858909e-33)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(4.3964681331543577e-17, 2.1316282072803025e-17), speed=4.885976960641014e-17
+shoot-arrow.js:74 direction(0.8998135211381686, 0.4362747152619902)
+shoot-arrow.js:80 pointingDirection(0.9980501571857173, 0.062417014840225125)
+shoot-arrow.js:81 flightDirection(4.3964681331543577e-17, 2.1316282072803025e-17)
+shoot-arrow.js:82 flightSpeed = 4.885976960641014e-17
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.8998135211381686 ,  0.4362747152619902
+shoot-arrow.js:96 dragForceMagnitude = 8.708666561488698e-36
+shoot-arrow.js:97 dot = 0.9252899915867056
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-7.836175923111373e-36, -3.799371024425097e-36)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(1.1879427796593766e-17, -1.6129320101754275e-15), speed=1.6129757562509486e-15
+shoot-arrow.js:74 direction(0.007364914041984864, -0.9999728786527935)
+shoot-arrow.js:80 pointingDirection(0.9980505513488481, 0.0624107118390764)
+shoot-arrow.js:81 flightDirection(1.1879427796593766e-17, -1.6129320101754275e-15)
+shoot-arrow.js:82 flightSpeed = 1.6129757562509486e-15
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.007364914041984864 ,  -0.9999728786527935
+shoot-arrow.js:96 dragForceMagnitude = 1.2004129370288301e-31
+shoot-arrow.js:97 dot = -0.05505846265625134
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-8.840938096103924e-34, 1.2003803802127739e-31)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-4.229940656550672e-17, -1.4210854715202016e-16), speed=1.4827029024538925e-16
+shoot-arrow.js:74 direction(-0.2852857878372036, -0.9584424965839662)
+shoot-arrow.js:80 pointingDirection(0.9980508721716848, 0.06240558113934573)
+shoot-arrow.js:81 flightDirection(-4.229940656550672e-17, -1.4210854715202016e-16)
+shoot-arrow.js:82 flightSpeed = 1.4827029024538925e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.2852857878372036 ,  -0.9584424965839662
+shoot-arrow.js:96 dragForceMagnitude = 7.035958419705943e-34
+shoot-arrow.js:97 dot = -0.34454189035707505
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(2.007258940955616e-34, 6.743561553643941e-34)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(1.3022909919568912e-16, 4.227729277772594e-16), speed=4.4237604675058576e-16
+shoot-arrow.js:74 direction(0.2943855123989411, 0.9556867531202955)
+shoot-arrow.js:80 pointingDirection(0.998051135208564, 0.06240137425487146)
+shoot-arrow.js:81 flightDirection(1.3022909919568912e-16, 4.227729277772594e-16)
+shoot-arrow.js:82 flightSpeed = 4.4237604675058576e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.2943855123989411 ,  0.9556867531202955
+shoot-arrow.js:96 dragForceMagnitude = 6.178125690166617e-33
+shoot-arrow.js:97 dot = 0.3534479615906005
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-1.8187506969647613e-33, -5.9043528812044193e-33)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-6.383773798315175e-17, 8.881784197001252e-16), speed=8.904696300333983e-16
+shoot-arrow.js:74 direction(-0.0716899665413153, 0.99742696409176)
+shoot-arrow.js:80 pointingDirection(0.9980513523673882, 0.062397900907222505)
+shoot-arrow.js:81 flightDirection(-6.383773798315175e-17, 8.881784197001252e-16)
+shoot-arrow.js:82 flightSpeed = 8.904696300333983e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.0716899665413153 ,  0.99742696409176
+shoot-arrow.js:96 dragForceMagnitude = 3.835701228574507e-32
+shoot-arrow.js:97 dot = -0.009312919190143133
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(2.7498129273898842e-33, -3.825831831580104e-32)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-8.215580435437188e-18, 1.3322676295501878e-15), speed=1.3322929604667164e-15
+shoot-arrow.js:74 direction(-0.00616649691863506, 0.9999809869771288)
+shoot-arrow.js:80 pointingDirection(0.9980515328201669, 0.06239501450689278)
+shoot-arrow.js:81 flightDirection(-8.215580435437188e-18, 1.3322676295501878e-15)
+shoot-arrow.js:82 flightSpeed = 1.3322929604667164e-15
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.00616649691863506 ,  0.9999809869771288
+shoot-arrow.js:96 dragForceMagnitude = 8.179587097602008e-32
+shoot-arrow.js:97 dot = 0.05623934648728036
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(5.043939863306987e-34, -8.179431578925444e-32)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(5.584424940808083e-17, -1.396216475768597e-15), speed=1.397332826279993e-15
+shoot-arrow.js:74 direction(0.03996488764724042, -0.9992010847448792)
+shoot-arrow.js:80 pointingDirection(0.9980516836780521, 0.06239260138354109)
+shoot-arrow.js:81 flightDirection(5.584424940808083e-17, -1.396216475768597e-15)
+shoot-arrow.js:82 flightSpeed = 1.397332826279993e-15
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.03996488764724042 ,  -0.9992010847448792
+shoot-arrow.js:96 dragForceMagnitude = 9.319791675314805e-32
+shoot-arrow.js:97 dot = -0.02245573157815662
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-3.724644271996427e-33, 9.312345951570848e-32)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-7.438494676997001e-17, 4.121147867408581e-16), speed=4.1877406528632383e-16
+shoot-arrow.js:74 direction(-0.17762548575951473, 0.9840981591328664)
+shoot-arrow.js:80 pointingDirection(0.9980519176310451, 0.06238885888516919)
+shoot-arrow.js:81 flightDirection(-7.438494676997001e-17, 4.121147867408581e-16)
+shoot-arrow.js:82 flightSpeed = 4.1877406528632383e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.17762548575951473 ,  0.9840981591328664
+shoot-arrow.js:96 dragForceMagnitude = 7.570760272841978e-33
+shoot-arrow.js:97 dot = -0.11588269550313438
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(1.3447599710323925e-33, -7.450371247740027e-33)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-2.7422489694033166e-17, 2.593480985524366e-16), speed=2.6079384418307063e-16
+shoot-arrow.js:74 direction(-0.10515006510193269, 0.9944563659653747)
+shoot-arrow.js:80 pointingDirection(0.9980520860194517, 0.06238616507063751)
+shoot-arrow.js:81 flightDirection(-2.7422489694033166e-17, 2.593480985524366e-16)
+shoot-arrow.js:82 flightSpeed = 2.6079384418307063e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.10515006510193269 ,  0.9944563659653747
+shoot-arrow.js:96 dragForceMagnitude = 3.1784823356916356e-33
+shoot-arrow.js:97 dot = -0.042904922817402893
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(3.3421762452331855e-34, -3.16086199283704e-33)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-2.8421718278062645e-17, -7.034373084024992e-16), speed=7.04011250565238e-16
+shoot-arrow.js:74 direction(-0.0403711137503035, -0.9991847542744836)
+shoot-arrow.js:80 pointingDirection(0.9980521522557442, 0.0623851054152902)
+shoot-arrow.js:81 flightDirection(-2.8421718278062645e-17, -7.034373084024992e-16)
+shoot-arrow.js:82 flightSpeed = 7.04011250565238e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.0403711137503035 ,  -0.9991847542744836
+shoot-arrow.js:96 dragForceMagnitude = 2.1717127401310327e-32
+shoot-arrow.js:97 dot = -0.10262672319221637
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(8.767446206481323e-34, 2.1699422606025913e-32)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(7.172039911109224e-17, -8.775202786637237e-16), speed=8.804462817882268e-16
+shoot-arrow.js:74 direction(0.08145914247650046, -0.9966766818316727)
+shoot-arrow.js:80 pointingDirection(0.9980522090638939, 0.062384196577990055)
+shoot-arrow.js:81 flightDirection(7.172039911109224e-17, -8.775202786637237e-16)
+shoot-arrow.js:82 flightSpeed = 8.804462817882268e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.08145914247650046 ,  -0.9966766818316727
+shoot-arrow.js:96 dragForceMagnitude = 3.712701720477991e-32
+shoot-arrow.js:97 dot = 0.01912360305303585
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-3.0243349842116504e-33, 3.700363231396746e-32)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-3.996798646747426e-18, 9.308109838457313e-16), speed=9.30819564710197e-16
+shoot-arrow.js:74 direction(-0.004293848988865845, 0.9999907813879391)
+shoot-arrow.js:80 pointingDirection(0.9980522579165348, 0.06238341500516534)
+shoot-arrow.js:81 flightDirection(-3.996798646747426e-18, 9.308109838457313e-16)
+shoot-arrow.js:82 flightSpeed = 9.30819564710197e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.004293848988865845 ,  0.9999907813879391
+shoot-arrow.js:96 dragForceMagnitude = 3.9848049721518003e-32
+shoot-arrow.js:97 dot = 0.05809735423817318
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(1.7110150800501602e-34, -3.984768237780624e-32)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(7.271961210565388e-17, -5.293543381412745e-16), speed=5.343258905329065e-16
+shoot-arrow.js:74 direction(0.13609599196686395, -0.9906956550679705)
+shoot-arrow.js:80 pointingDirection(0.9980523000252371, 0.06238274131788314)
+shoot-arrow.js:81 flightDirection(7.271961210565388e-17, -5.293543381412745e-16)
+shoot-arrow.js:82 flightSpeed = 5.343258905329065e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.13609599196686395 ,  -0.9906956550679705
+shoot-arrow.js:96 dragForceMagnitude = 1.290862706189021e-32
+shoot-arrow.js:97 dot = 0.07402860703188877
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-1.7568124049182527e-33, 1.2788520743107452e-32)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-8.359979799271492e-17, 8.668621376273222e-16), speed=8.70883971534804e-16
+shoot-arrow.js:74 direction(-0.0959941860514239, 0.9953818946737603)
+shoot-arrow.js:80 pointingDirection(0.9980523678577766, 0.062381656065587314)
+shoot-arrow.js:81 flightDirection(-8.359979799271492e-17, 8.668621376273222e-16)
+shoot-arrow.js:82 flightSpeed = 8.70883971534804e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.0959941860514239 ,  0.9953818946737603
+shoot-arrow.js:96 dragForceMagnitude = 3.578462625667705e-32
+shoot-arrow.js:97 dot = -0.03371365368175241
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(3.4351160706641255e-33, -3.561936908356359e-32)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-1.946220901824914e-16, -4.263256414560605e-17), speed=1.9923677751015508e-16
+shoot-arrow.js:74 direction(-0.9768381752338446, -0.21397939014263104)
+shoot-arrow.js:80 pointingDirection(0.9980523951192068, 0.06238121990482936)
+shoot-arrow.js:81 flightDirection(-1.946220901824914e-16, -4.263256414560605e-17)
+shoot-arrow.js:82 flightSpeed = 1.9923677751015508e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.9768381752338446 ,  -0.21397939014263104
+shoot-arrow.js:96 dragForceMagnitude = 2.2708545816620348e-35
+shoot-arrow.js:97 dot = -0.9882839758276029
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(2.2182574457721577e-35, 4.859160784866418e-36)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-2.3459012055014707e-16, -6.608047442568932e-16), speed=7.012099790306399e-16
+shoot-arrow.js:74 direction(-0.3345504592995766, -0.942377838333671)
+shoot-arrow.js:80 pointingDirection(0.9980524187687174, 0.06238084152937278)
+shoot-arrow.js:81 flightDirection(-2.3459012055014707e-16, -6.608047442568932e-16)
+shoot-arrow.js:82 flightSpeed = 7.012099790306399e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.3345504592995766 ,  -0.942377838333671
+shoot-arrow.js:96 dragForceMagnitude = 1.4580757122995316e-32
+shoot-arrow.js:97 dot = -0.3926852176980134
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(4.877998992433656e-33, 1.37405823788366e-32)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-3.5971233269581646e-17, 1.8616219676914626e-15), speed=1.8619694627502265e-15
+shoot-arrow.js:74 direction(-0.01931891687227257, 0.9998133723104938)
+shoot-arrow.js:80 pointingDirection(0.9980524393066647, 0.062380512934861035)
+shoot-arrow.js:81 flightDirection(-3.5971233269581646e-17, 1.8616219676914626e-15)
+shoot-arrow.js:82 flightSpeed = 1.8619694627502265e-15
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.01931891687227257 ,  0.9998133723104938
+shoot-arrow.js:96 dragForceMagnitude = 1.6198968008999566e-31
+shoot-arrow.js:97 dot = 0.043087578894727474
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(3.129465163824653e-33, -1.6195944833027662e-31)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-1.787460263760058e-17, -7.99360577730113e-16), speed=7.995604008756763e-16
+shoot-arrow.js:74 direction(-0.022355537640463895, -0.9997500837393343)
+shoot-arrow.js:80 pointingDirection(0.998052457158524, 0.062380227314692255)
+shoot-arrow.js:81 flightDirection(-1.787460263760058e-17, -7.99360577730113e-16)
+shoot-arrow.js:82 flightSpeed = 7.995604008756763e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.022355537640463895 ,  -0.9997500837393343
+shoot-arrow.js:96 dragForceMagnitude = 2.857242816418503e-32
+shoot-arrow.js:97 dot = -0.08467663675470714
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(6.387519933038891e-34, 2.8565287449780097e-32)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-5.717648890942236e-17, 5.506706202140775e-16), speed=5.53630998816871e-16
+shoot-arrow.js:74 direction(-0.10327544706060633, 0.9946527947150362)
+shoot-arrow.js:80 pointingDirection(0.9980524726874552, 0.062379978859057036)
+shoot-arrow.js:81 flightDirection(-5.717648890942236e-17, 5.506706202140775e-16)
+shoot-arrow.js:82 flightSpeed = 5.53630998816871e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.10327544706060633 ,  0.9946527947150362
+shoot-arrow.js:96 dragForceMagnitude = 1.4352145226236572e-32
+shoot-arrow.js:97 dot = -0.041027895000314576
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(1.482224214518329e-33, -1.4275401359432273e-32)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-8.293365631090616e-17, 1.634248292248232e-16), speed=1.8326392486318228e-16
+shoot-arrow.js:74 direction(-0.45253672468720285, 0.891745766914191)
+shoot-arrow.js:80 pointingDirection(0.9980524862044531, 0.062379762592606705)
+shoot-arrow.js:81 flightDirection(-8.293365631090616e-17, 1.634248292248232e-16)
+shoot-arrow.js:82 flightSpeed = 1.8326392486318228e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.45253672468720285 ,  0.891745766914191
+shoot-arrow.js:96 dragForceMagnitude = 9.904680028670178e-34
+shoot-arrow.js:97 dot = -0.39602851393981364
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(4.482231459249153e-34, -8.83245648820616e-34)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(1.687538662969614e-17, -2.1671553440683055e-16), speed=2.1737157479104732e-16
+shoot-arrow.js:74 direction(0.0776338242289404, -0.9969819403256962)
+shoot-arrow.js:80 pointingDirection(0.9980524979766069, 0.06237957424233585)
+shoot-arrow.js:81 flightDirection(1.687538662969614e-17, -2.1671553440683055e-16)
+shoot-arrow.js:82 flightSpeed = 2.1737157479104732e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = 0.0776338242289404 ,  -0.9969819403256962
+shoot-arrow.js:96 dragForceMagnitude = 2.271869158419691e-33
+shoot-arrow.js:97 dot = 0.015291323234355968
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(-1.7637389091590504e-34, 2.2650125217273703e-33)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(-1.0247358719881568e-16, 2.486899575160351e-16), speed=2.6897496359832567e-16
+shoot-arrow.js:74 direction(-0.38097816178848837, 0.9245840363321576)
+shoot-arrow.js:80 pointingDirection(0.9980525082338726, 0.06237941012927093)
+shoot-arrow.js:81 flightDirection(-1.0247358719881568e-16, 2.486899575160351e-16)
+shoot-arrow.js:82 flightSpeed = 2.6897496359832567e-16
+shoot-arrow.js:86 flightDirection normalizeSelf = -0.38097816178848837 ,  0.9245840363321576
+shoot-arrow.js:96 dragForceMagnitude = 2.3931164250175772e-33
+shoot-arrow.js:97 dot = -0.3225612031539905
+shoot-arrow.js:98 mass = 0.48828125
+shoot-arrow.js:99 force(9.117250965490354e-34, -2.2126372436555347e-33)
+shoot-arrow.js:68 ----------------------------------------------------------------------
+shoot-arrow.js:69 flying: velocity(0, 0), speed=0
